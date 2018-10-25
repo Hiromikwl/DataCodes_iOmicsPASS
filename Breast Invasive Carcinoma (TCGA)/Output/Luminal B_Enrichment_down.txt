@@ -1,0 +1,19 @@
+Pathway	PathAnnotation	HypergeoPval	NumGene_inPathway	NumGenes_inbg	PropPathway	NumEdgesformed_inbg	Enriched_Edgesize
+GO:0000122	negative regulation of transcription from RNA polymerase II promoter	0.221128	709	562	0.792666	2731	1
+GO:0001649	osteoblast differentiation	0.00579229	103	87	0.84466	64	1
+GO:0007050	cell cycle arrest	0.019691	141	122	0.865248	219	1
+GO:0008283	cell proliferation	0.0416395	352	284	0.806818	468	1
+GO:0045892	negative regulation of transcription, DNA-templated	0.12589	478	362	0.757322	1476	1
+GO:0045944	positive regulation of transcription from RNA polymerase II promoter	0.339579	951	702	0.73817	4509	1
+KEGG:04310	Wnt signaling pathway	0.0277662	154	119	0.772727	310	1
+KEGG:05200	Pathways in cancer	0.159219	401	329	0.820449	1900	1
+KEGG:05210	Colorectal cancer	0.0146011	62	60	0.967742	162	1
+KEGG:05213	Endometrial cancer	0.010745	52	47	0.903846	119	1
+KEGG:05215	Prostate cancer	0.0318245	89	77	0.865169	356	1
+KEGG:05216	Thyroid cancer	0.00253799	29	27	0.931034	28	1
+KEGG:05217	Basal cell carcinoma	0.00262852	55	36	0.654545	29	1
+Pathway_EGFR1	EGFR1	0.0251813	453	419	0.924945	2751	2
+R-HSA-162582	Signal Transduction	0.565139	2334	1317	0.564267	8926	1
+WP399	Wnt Signaling Pathway and Pluripotency	0.0132575	101	80	0.792079	147	1
+WP710	DNA Damage Response (only ATM dependent)	0.027943	110	95	0.863636	312	1
+ap1_pathway	AP-1 transcription factor network	0.0210264	70	62	0.885714	234	1

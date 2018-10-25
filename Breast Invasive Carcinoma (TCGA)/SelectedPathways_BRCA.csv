@@ -1,0 +1,46 @@
+﻿Pathway,PathAnnotation
+Pathway_Alpha6Beta4Integrin,Alpha6Beta4Integrin
+Pathway_AndrogenReceptor,AndrogenReceptor
+ap1_pathway,AP-1 transcription factor network
+atf2_pathway,ATF-2 transcription factor network
+WP2516,ATM Signaling Pathway
+atr_pathway,ATR signaling pathway
+aurora_b_pathway,Aurora B signaling
+KEGG:04110,Cell cycle
+p53downstreampathway,Direct p53 effectors
+GO:0006281,DNA repair
+WP466,DNA Replication
+Pathway_EGFR1,EGFR1
+efppathway,Estrogen responsive protein efp controls cell cycle and breast tumors growth
+WP712,Estrogen signaling pathway
+hnf3apathway,FOXA1 transcription factor network
+foxm1pathway,FOXM1 transcription factor network
+R-HSA-1306955,GRB7 events in ERBB2 signaling
+Pathway_IL6,IL6
+R-HSA-168256,Immune System
+GO:0045087,Innate immune response
+WP2332,Interleukin-11 Signaling Pathway
+KEGG:04630,JAK-STAT signaling pathway
+R-HSA-5684996,MAPK1/MAPK3 signaling
+WP1530,miRNA Regulation of DNA Damage Response
+GO:0048011,Neurotrophin TRK receptor signaling pathway
+R-HSA-187037,NGF signalling via TRKA from the plasma membrane
+hes_heypathway,Notch-mediated HES/HEY network
+WP170,Nuclear Receptors
+KEGG:04115,p53 signaling pathway
+p73pathway,p73 transcription factor network
+GO:0008284,Positive regulation of cell proliferation
+Pathway_Prolactin,Prolactin
+KEGG:05205,Proteoglycans in cancer
+WP3303,Rac1-Pak1-p38-MMP-2 pathway
+smad2_3nuclearpathway,Regulation of nuclear SMAD2/3 signaling
+GO:0032355,Response to estradiol
+GO:0043627,Response to estrogen
+shp2_pathway,SHP2 signaling
+GO:0007165,Signal transduction
+R-HSA-1227986,Signaling by ERBB2
+R-HSA-1236394,Signaling by ERBB4
+GO:0043401,Steroid hormone mediated signaling pathway
+Pathway_TGF_beta_Receptor,TGF_beta_Receptor
+era_genomic_pathway,Validated nuclear estrogen receptor alpha network
+GO:0048010,Vascular endothelial growth factor receptor signaling pathway

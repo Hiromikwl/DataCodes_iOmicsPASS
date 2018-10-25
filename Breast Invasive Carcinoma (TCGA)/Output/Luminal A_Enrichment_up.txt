@@ -1,0 +1,201 @@
+Pathway	PathAnnotation	HypergeoPval	NumGene_inPathway	NumGenes_inbg	PropPathway	NumEdgesformed_inbg	Enriched_Edgesize
+GO:0000122	negative regulation of transcription from RNA polymerase II promoter	0.0216857	709	562	0.792666	2731	7
+GO:0000209	protein polyubiquitination	0.223761	137	125	0.912409	881	2
+GO:0000718	nucleotide-excision repair, DNA damage removal	0.0673832	22	22	1	69	1
+GO:0001701	in utero embryonic development	0.169804	210	172	0.819048	184	1
+GO:0001764	neuron migration	0.0210048	105	72	0.685714	21	1
+GO:0001822	kidney development	6.65206e-05	89	67	0.752809	12	2
+GO:0006281	DNA repair	0.784189	290	268	0.924138	1510	1
+GO:0006289	nucleotide-excision repair	0.242092	69	63	0.913043	274	1
+GO:0006338	chromatin remodeling	0.000186711	91	81	0.89011	274	4
+GO:0006351	transcription, DNA-templated	1.48387e-05	1806	1279	0.708195	5544	18
+GO:0006355	regulation of transcription, DNA-templated	0.00217539	1289	873	0.677269	1753	7
+GO:0006357	regulation of transcription from RNA polymerase II promoter	0.485948	386	276	0.715026	657	1
+GO:0006366	transcription from RNA polymerase II promoter	0.00947558	543	395	0.72744	1765	6
+GO:0006367	transcription initiation from RNA polymerase II promoter	9.87853e-07	250	227	0.908	1296	10
+GO:0006915	apoptotic process	0.631748	600	504	0.84	2115	2
+GO:0006952	defense response	0.00302788	58	35	0.603448	3	1
+GO:0006959	humoral immune response	0.00504141	57	30	0.526316	5	1
+GO:0006974	cellular response to DNA damage stimulus	0.288936	191	172	0.900524	337	1
+GO:0006996	organelle organization	0.690757	293	271	0.924915	1157	1
+GO:0007165	signal transduction	2.57572e-14	982	687	0.699593	1495	18
+GO:0007204	positive regulation of cytosolic calcium ion concentration	0.00905634	118	68	0.576271	9	1
+GO:0007264	small GTPase mediated signal transduction	0.90699	639	520	0.813772	2333	1
+GO:0007411	axon guidance	0.489883	533	407	0.763602	1626	2
+GO:0007507	heart development	0.0022122	156	120	0.769231	68	2
+GO:0007596	blood coagulation	0.308613	486	393	0.808642	1109	2
+GO:0008150	biological_process	0.0869807	650	377	0.58	90	1
+GO:0008284	positive regulation of cell proliferation	0.00164122	445	316	0.710112	491	4
+GO:0008285	negative regulation of cell proliferation	0.00461528	385	313	0.812987	656	4
+GO:0008286	insulin receptor signaling pathway	0.711443	301	252	0.837209	1225	1
+GO:0008584	male gonad development	8.7659e-09	82	54	0.658537	23	4
+GO:0009411	response to UV	0.029872	43	41	0.953488	30	1
+GO:0009615	response to virus	0.043507	108	85	0.787037	44	1
+GO:0009653	anatomical structure morphogenesis	0.0190233	123	71	0.577236	19	1
+GO:0009791	post-embryonic development	0.00905634	79	59	0.746835	9	1
+GO:0009887	organ morphogenesis	0.0279084	92	66	0.717391	28	1
+GO:0009967	positive regulation of signal transduction	0.0100576	56	44	0.785714	10	1
+GO:0010332	response to gamma radiation	0.0337873	33	29	0.878788	34	1
+GO:0010467	gene expression	0.550312	854	781	0.91452	9931	10
+GO:0010595	positive regulation of endothelial cell migration	6.65206e-05	42	37	0.880952	12	2
+GO:0010629	negative regulation of gene expression	1.32178e-07	115	94	0.817391	44	4
+GO:0010863	positive regulation of phospholipase C activity	0.00302788	8	8	1	3	1
+GO:0010975	regulation of neuron projection development	0.00403515	14	7	0.5	4	1
+GO:0012501	programmed cell death	0.671953	158	154	0.974684	1099	1
+GO:0014065	phosphatidylinositol 3-kinase signaling	0.0279084	30	22	0.733333	28	1
+GO:0016032	viral process	0.997724	559	530	0.948122	5912	1
+GO:0016049	cell growth	0.0190233	59	46	0.779661	19	1
+GO:0019221	cytokine-mediated signaling pathway	0.0767705	260	200	0.769231	451	2
+GO:0030218	erythrocyte differentiation	0.00805412	42	38	0.904762	8	1
+GO:0030518	intracellular steroid hormone receptor signaling pathway	0.0483304	15	14	0.933333	49	1
+GO:0030520	intracellular estrogen receptor signaling pathway	0.0110578	19	14	0.736842	11	1
+GO:0031929	TOR signaling	0.0150486	14	13	0.928571	15	1
+GO:0032355	response to estradiol	8.45808e-05	100	81	0.81	82	3
+GO:0032689	negative regulation of interferon-gamma production	0.00504141	28	20	0.714286	5	1
+GO:0035162	embryonic hemopoiesis	0.00504141	20	17	0.85	5	1
+GO:0035457	cellular response to interferon-alpha	0.00403515	9	9	1	4	1
+GO:0042472	inner ear morphogenesis	0.00604665	56	35	0.625	6	1
+GO:0042493	response to drug	0.0538917	308	239	0.775974	368	2
+GO:0042981	regulation of apoptotic process	0.619047	216	176	0.814815	952	1
+GO:0043066	negative regulation of apoptotic process	0.605417	477	373	0.781971	2015	2
+GO:0043124	negative regulation of I-kappaB kinase/NF-kappaB signaling	0.0160438	36	30	0.833333	16	1
+GO:0043401	steroid hormone mediated signaling pathway	2.4758e-14	56	43	0.767857	42	7
+GO:0043433	negative regulation of sequence-specific DNA binding transcription factor activity	0.0531296	67	53	0.791045	54	1
+GO:0043627	response to estrogen	3.62355e-12	64	53	0.828125	40	6
+GO:0045087	innate immune response	0.570159	849	641	0.755006	3965	4
+GO:0045165	cell fate commitment	0.00403515	55	28	0.509091	4	1
+GO:0045429	positive regulation of nitric oxide biosynthetic process	0.0259409	37	32	0.864865	26	1
+GO:0045471	response to ethanol	0.000350258	97	73	0.752577	27	2
+GO:0045599	negative regulation of fat cell differentiation	0.00604665	37	32	0.864865	6	1
+GO:0045786	negative regulation of cell cycle	0.0210048	43	39	0.906977	21	1
+GO:0045892	negative regulation of transcription, DNA-templated	0.188311	478	362	0.757322	1476	3
+GO:0045893	positive regulation of transcription, DNA-templated	1.52401e-09	497	400	0.804829	1921	15
+GO:0045944	positive regulation of transcription from RNA polymerase II promoter	2.38531e-10	951	702	0.73817	4509	23
+GO:0048146	positive regulation of fibroblast proliferation	0.00111003	54	43	0.796296	48	2
+GO:0048469	cell maturation	0.00705089	42	29	0.690476	7	1
+GO:0048538	thymus development	0.0140524	44	29	0.659091	14	1
+GO:0048565	digestive tract development	0.00604665	38	25	0.657895	6	1
+GO:0048589	developmental growth	0.00504141	23	18	0.782609	5	1
+GO:0050728	negative regulation of inflammatory response	0.000253137	72	54	0.75	23	2
+GO:0050852	T cell receptor signaling pathway	0.152832	97	73	0.752577	164	1
+GO:0051000	positive regulation of nitric-oxide synthase activity	0.00403515	22	14	0.636364	4	1
+GO:0051091	positive regulation of sequence-specific DNA binding transcription factor activity	0.00391665	102	77	0.754902	91	2
+GO:0051897	positive regulation of protein kinase B signaling	0.000557218	82	67	0.817073	34	2
+GO:0060065	uterus development	2.02111e-08	13	9	0.692308	6	3
+GO:0060068	vagina development	0.00403515	10	7	0.7	4	1
+GO:0060745	mammary gland branching involved in pregnancy	0.00403515	3	3	1	4	1
+GO:0060749	mammary gland alveolus development	0.00705089	15	14	0.933333	7	1
+GO:0060750	epithelial cell proliferation involved in mammary gland duct elongation	0.00403515	5	5	1	4	1
+GO:0071353	cellular response to interleukin-4	2.12362e-05	22	18	0.818182	7	2
+GO:0071356	cellular response to tumor necrosis factor	0.0386594	92	71	0.771739	39	1
+GO:0071392	cellular response to estradiol stimulus	0.00905634	22	16	0.727273	9	1
+GO:0071773	cellular response to BMP stimulus	0.00604665	30	17	0.566667	6	1
+GO:0097191	extrinsic apoptotic signaling pathway	0.0483304	57	52	0.912281	49	1
+GO:2000114	regulation of establishment of cell polarity	0.00302788	17	15	0.882353	3	1
+GO:2000352	negative regulation of endothelial cell apoptotic process	6.07961e-06	24	21	0.875	4	2
+GO:2000679	positive regulation of transcription regulatory region DNA binding	0.00302788	12	9	0.75	3	1
+KEGG:03420	Nucleotide excision repair	0.166437	47	44	0.93617	180	1
+KEGG:04550	Signaling pathways regulating pluripotency of stem cells	0.00938336	142	99	0.697183	143	2
+KEGG:04630	Jak-STAT signaling pathway	1.58324e-06	158	100	0.632911	188	5
+KEGG:04915	Estrogen signaling pathway	0.00156913	100	74	0.74	223	3
+KEGG:04917	Prolactin signaling pathway	0.000808853	72	58	0.805556	177	3
+KEGG:04919	Thyroid hormone signaling pathway	0.00464224	119	97	0.815126	328	3
+KEGG:04961	Endocrine and other factor-regulated calcium reabsorption	0.0269252	48	36	0.75	27	1
+KEGG:05161	Hepatitis B	0.154879	146	120	0.821918	691	2
+KEGG:05200	Pathways in cancer	0.127486	401	329	0.820449	1900	4
+KEGG:05203	Viral carcinogenesis	0.0473785	206	164	0.796117	795	3
+KEGG:05205	Proteoglycans in cancer	0.0236076	204	175	0.857843	602	3
+KEGG:05210	Colorectal cancer	0.151116	62	60	0.967742	162	1
+KEGG:05215	Prostate cancer	0.30249	89	77	0.865169	356	1
+KEGG:05321	Inflammatory bowel disease (IBD)	0.0934218	65	45	0.692308	97	1
+Pathway_AndrogenReceptor	AndrogenReceptor	4.16033e-08	143	134	0.937063	915	10
+Pathway_IL11	IL11	0.00150745	23	23	1	56	2
+Pathway_IL6	IL6	1.22368e-08	74	71	0.959459	411	8
+Pathway_Leptin	Leptin	0.000139814	62	58	0.935484	254	4
+Pathway_Oncostatin_M	Oncostatin_M	3.62103e-05	38	37	0.973684	179	4
+Pathway_Prolactin	Prolactin	0.000305518	70	63	0.9	312	4
+Pathway_TGF_beta_Receptor	TGF_beta_Receptor	1.17326e-07	174	168	0.965517	1024	10
+R-HSA-1059683	Interleukin-6 signaling	0.000404604	11	10	0.909091	29	2
+R-HSA-109581	Apoptosis	0.0446423	112	109	0.973214	331	2
+R-HSA-109582	Hemostasis	0.350922	493	402	0.815416	1224	2
+R-HSA-109970	Global Genomic NER (GG-NER)	0.132887	35	35	1	141	1
+R-HSA-110056	MAPK3 (ERK1) activation	3.63565e-05	10	9	0.9	9	2
+R-HSA-112409	RAF-independent MAPK1/3 activation	0.000136618	23	18	0.782609	17	2
+R-HSA-112411	MAPK1 (ERK2) activation	3.63565e-05	9	8	0.888889	9	2
+R-HSA-1236394	Signaling by ERBB4	0.0248337	263	211	0.802281	614	3
+R-HSA-1251985	Nuclear signaling by ERBB4	0.021994	34	24	0.705882	22	1
+R-HSA-1266738	Developmental Biology	0.543805	586	445	0.759386	1799	2
+R-HSA-1280215	Cytokine Signaling in Immune system	0.00835759	376	286	0.760638	1222	5
+R-HSA-1280218	Adaptive Immune System	0.84498	612	437	0.714052	1834	1
+R-HSA-162582	Signal Transduction	0.000105008	2334	1317	0.564267	8926	22
+R-HSA-168249	Innate Immune System	0.507246	709	509	0.717913	2670	3
+R-HSA-168256	Immune System	0.0423607	1174	834	0.710392	5270	10
+R-HSA-1852241	Organelle biogenesis and maintenance	0.681493	293	267	0.911263	1128	1
+R-HSA-186763	Downstream signal transduction	0.515337	279	225	0.806452	715	1
+R-HSA-186797	Signaling by PDGF	0.527004	301	240	0.797342	739	1
+R-HSA-195721	Signaling by Wnt	0.366504	278	188	0.676259	451	1
+R-HSA-201681	TCF dependent signaling in response to WNT	0.254272	188	117	0.62234	290	1
+R-HSA-212436	Generic Transcription Pathway	2.21584e-08	541	389	0.719039	855	10
+R-HSA-383280	Nuclear Receptor transcription pathway	2.72449e-13	51	41	0.803922	58	7
+R-HSA-449147	Signaling by Interleukins	0.00223716	270	217	0.803704	891	5
+R-HSA-5357769	Caspase activation via extrinsic apoptotic signalig pathway	0.03281	27	26	0.962963	33	1
+R-HSA-5357801	Programmed Cell Death	0.0480667	115	112	0.973913	345	2
+R-HSA-5617833	Assembly of the primary cilium	0.267	180	157	0.872222	307	1
+R-HSA-5620920	Cargo trafficking to the periciliary membrane	0.0720869	51	42	0.823529	74	1
+R-HSA-5620922	BBSome-mediated cargo-targeting to cilium	0.0406014	23	19	0.826087	41	1
+R-HSA-5683057	MAPK family signaling cascades	0.00695769	225	176	0.782222	380	3
+R-HSA-5684996	MAPK1/MAPK3 signaling	0.00362259	191	149	0.780105	300	3
+R-HSA-73885	Nucleotide Excision Repair	0.205963	52	50	0.961538	228	1
+R-HSA-73894	DNA Repair	0.500858	147	142	0.965986	686	1
+R-HSA-73935	Formation of incision complex in GG-NER	0.0758328	22	22	1	78	1
+R-HSA-73941	Dual incision reaction in GG-NER	0.0758328	22	22	1	78	1
+R-HSA-74160	Gene Expression	0.465837	1214	972	0.800659	9298	10
+R-HSA-983231	Factors involved in megakaryocyte development and platelet production	0.121408	114	95	0.833333	128	1
+WP1544	MicroRNAs in cardiomyocyte hypertrophy	0.131131	102	74	0.72549	139	1
+WP170	Nuclear Receptors	4.89608e-14	38	33	0.868421	46	7
+WP1984	Integrated Breast Cancer Pathway	6.90392e-08	64	59	0.921875	100	5
+WP2005	miR-targeted genes in muscle cell - TarBase	2.23659e-07	394	313	0.794416	404	7
+WP2034	Leptin signaling pathway	3.13924e-05	76	74	0.973684	349	5
+WP2203	TSLP Signaling Pathway	0.135515	47	45	0.957447	144	1
+WP2263	Prostate Cancer	0.176498	72	64	0.888889	192	1
+WP2332	Interleukin-11 Signaling Pathway	0.000267205	44	42	0.954545	121	3
+WP236	Adipogenesis	0.0330028	131	111	0.847328	280	2
+WP2374	Oncostatin M Signaling Pathway	0.000197299	65	64	0.984615	278	4
+WP2377	Integrated Pancreatic Cancer Pathway	0.000189221	170	154	0.905882	808	6
+WP2586	Aryl Hydrocarbon Receptor	0.114269	46	40	0.869565	120	1
+WP2593	JAK-STAT	0.000122928	43	41	0.953488	93	3
+WP2881	Estrogen Receptor Pathway	0.000171548	13	10	0.769231	19	2
+WP2882	Nuclear Receptors Meta-Pathway	0.000112622	314	220	0.700637	458	5
+WP364	IL-6 signaling pathway	0.000344812	44	43	0.977273	132	3
+WP395	IL-4 Signaling Pathway	0.0237349	54	52	0.962963	234	2
+WP61	Notch Signaling Pathway	0.132887	61	55	0.901639	141	1
+WP69	TCR Signaling Pathway	0.319934	92	80	0.869565	381	1
+WP706	SIDS Susceptibility Pathways	0.281698	159	109	0.685535	327	1
+WP712	Estrogen signaling pathway	9.79851e-07	23	22	0.956522	72	4
+ap1_pathway	AP-1 transcription factor network	4.60451e-06	70	62	0.885714	234	5
+atf2_pathway	ATF-2 transcription factor network	3.17058e-05	60	56	0.933333	173	4
+carmerpathway	carm1 and regulation of the estrogen receptor	0.0259409	12	12	1	26	1
+cmyb_pathway	C-MYB transcription factor network	0.148535	85	76	0.894118	159	1
+efppathway	estrogen responsive protein efp controls cell cycle and breast tumors growth	0.0357391	15	14	0.933333	36	1
+er_nongenomic_pathway	Plasma membrane estrogen receptor signaling	0.0022122	42	39	0.928571	68	2
+era_genomic_pathway	Validated nuclear estrogen receptor alpha network	1.08284e-06	64	54	0.84375	174	5
+foxm1pathway	FOXM1 transcription factor network	0.000248211	42	40	0.952381	118	3
+gata3pathway	gata3 participate in activating the th2 cytokine genes expression	0.0130552	19	14	0.736842	13	1
+hdac_classii_pathway	Signaling events mediated by HDAC Class II	0.112475	38	35	0.921053	118	1
+her2pathway	role of erbb2 in signal transduction and oncology	0.0823521	28	26	0.928571	85	1
+hnf3apathway	FOXA1 transcription factor network	6.44573e-10	44	33	0.75	92	6
+il12_2pathway	IL12-mediated signaling events	0.0979949	65	49	0.753846	102	1
+il27pathway	IL27-mediated signaling events	0.000696409	26	21	0.807692	38	2
+il6_7pathway	IL6-mediated signaling events	0.000352508	47	46	0.978723	133	3
+lkb1_pathway	LKB1 signaling events	0.144217	43	41	0.953488	154	1
+mta3pathway	downregulated of mta-3 in er-negative breast tumors	2.01815e-06	21	17	0.809524	24	3
+nfat_tfpathway	Calcineurin-regulated NFAT-dependent transcription in lymphocytes	0.0259409	49	37	0.755102	26	1
+notch_pathway	Notch signaling pathway	0.0664396	54	45	0.833333	68	1
+p38alphabetadownstreampathway	Signaling mediated by p38-alpha and p38-beta	0.00327205	35	34	0.971429	83	2
+p53downstreampathway	Direct p53 effectors	0.00741626	141	127	0.900709	389	3
+pelp1pathway	pelp1 modulation of estrogen receptor activity	0.0150486	5	5	1	15	1
+reg_gr_pathway	Glucocorticoid receptor regulatory network	0.318555	80	69	0.8625	379	1
+shp2_pathway	SHP2 signaling	0.000135051	58	52	0.896552	96	3
+smad2_3nuclearpathway	Regulation of nuclear SMAD2/3 signaling	1.75546e-09	78	71	0.910256	472	9
+telomerasepathway	Regulation of Telomerase	0.000332191	68	66	0.970588	319	4
+tertpathway	overview of telomerase protein component gene htert transcriptional regulation	2.58863e-06	10	10	1	26	3

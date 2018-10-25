@@ -1,0 +1,33 @@
+Pathway	PathAnnotation	HypergeoPval	NumGene_inPathway	NumGenes_inbg	PropPathway	NumEdgesformed_inbg	Enriched_Edgesize
+GO:0000122	negative regulation of transcription from RNA polymerase II promoter	0.340668	709	562	0.792666	2731	1
+GO:0000278	mitotic cell cycle	0.435188	422	393	0.93128	3734	1
+GO:0006260	DNA replication	0.0902283	130	124	0.953846	624	1
+GO:0006355	regulation of transcription, DNA-templated	0.028696	1289	873	0.677269	1753	2
+GO:0006366	transcription from RNA polymerase II promoter	0.235398	543	395	0.72744	1765	1
+GO:0010467	gene expression	0.787568	854	781	0.91452	9931	1
+GO:0043524	negative regulation of neuron apoptotic process	0.00963546	126	98	0.777778	64	1
+GO:0045944	positive regulation of transcription from RNA polymerase II promoter	0.14799	951	702	0.73817	4509	2
+GO:0051301	cell division	0.161827	320	292	0.9125	1163	1
+KEGG:01100	Metabolic pathways	0.164504	1130	859	0.760177	1184	1
+KEGG:04110	Cell cycle	0.121338	124	117	0.943548	853	1
+KEGG:04114	Oocyte meiosis	0.0438224	115	91	0.791304	296	1
+KEGG:05200	Pathways in cancer	0.251024	401	329	0.820449	1900	1
+KEGG:05203	Viral carcinogenesis	0.113556	206	164	0.796117	795	1
+R-HSA-1640170	Cell Cycle	0.457732	502	432	0.860558	3997	1
+R-HSA-2262752	Cellular responses to stress	0.21095	367	301	0.820163	1559	1
+R-HSA-504046	RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription	0.0579204	149	106	0.711409	394	1
+R-HSA-69278	Cell Cycle, Mitotic	0.363108	432	372	0.861111	2956	1
+R-HSA-69620	Cell Cycle Checkpoints	0.113152	139	111	0.798561	792	1
+R-HSA-73980	RNA Polymerase III Transcription Termination	0.0123293	24	23	0.958333	82	1
+R-HSA-74158	RNA Polymerase III Transcription	0.0197755	41	39	0.95122	132	1
+R-HSA-74159	Transcription	0.14429	242	194	0.801653	1027	1
+R-HSA-74160	Gene Expression	0.163691	1214	972	0.800659	9298	3
+R-HSA-749476	RNA Polymerase III Abortive And Retractive Initiation	0.0197755	41	39	0.95122	132	1
+WP179	Cell Cycle	0.0913327	103	98	0.951456	632	1
+WP2002	miR-targeted genes in epithelium - TarBase	0.0399027	327	255	0.779817	269	1
+WP2003	miR-targeted genes in leukocytes - TarBase	0.00648369	152	122	0.802632	43	1
+WP2004	miR-targeted genes in lymphocytes - TarBase	0.0732259	480	383	0.797917	502	1
+WP2005	miR-targeted genes in muscle cell - TarBase	0.0593477	394	313	0.794416	404	1
+WP2064	Neural Crest Differentiation	0.018142	101	66	0.653465	121	1
+WP2261	Signaling Pathways in Glioblastoma	0.0409204	83	79	0.951807	276	1
+WP2446	Retinoblastoma (RB) in Cancer	0.083853	88	86	0.977273	578	1

@@ -1,0 +1,57 @@
+############################
+### input parameter file ###
+############################
+
+## input files ##
+
+# DNA_FILE  
+RNA_FILE = mRNA_processedDat.txt
+PROTEIN_FILE = PROT_processedDat.txt
+
+## Network files ##
+
+PPI_NETWORK = PPInetwork_genesym.txt
+TF_NETWORK = TFnetwork_genesym.txt
+MODULE_FILE = Pathways_CPDB_GO_human.txt
+
+## subtyping file ##
+
+SUBTYPE_FILE = TCGA_BRCA_subtypes.txt
+
+### parameters ###
+
+## data parameters ##
+INTERACT_SIGN = false
+ANALYSE_DNA = false    
+## if true, filename should be provided for DNA_file
+## if protein-lvl data is not available, one can also replace protein with rna-level data
+
+## standardardisation ##
+#ZTRANS_DNA = true
+ZTRANS_RNA = true
+ZTRANS_PROT = true
+
+# default is true for all log(base2) transformation
+#LOG_TRANSFORM_DNA = false
+LOG_TRANSFORM_RNA = false
+LOG_TRANSFORM_PROT = false
+
+## parameters within each group ##
+MIN_OBS = 10
+MIN_PROP = 0.8
+### only one of the two has to be specified, MIN_PROP = 0.5 and MIN_OBS=1 by default ###
+### if both specified, apply both simultaneously ###
+
+## if data has missing, apply KNN to impute before PAM ##
+KNN_IMPUTE = false
+MAX_BLOCKSIZE = 1500
+
+## parameter for shrunken gene centroid ##
+CROSS_VALIDATION = true
+CV_FOLD = 10
+MIN_THRES = 2.3
+
+## parameter for subnetwork enrichment ##
+BACKGROUND_PROP = 0.5
+MINBG_SIZE = 3
+MINSIG_SIZE = 1
