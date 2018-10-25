@@ -95,14 +95,14 @@ lumBdown= lumBdown[,c(1,2,9,3:8,10)]
 
 ## output enrichment tables for each subtype ##
 
-write.table(basalup,"Basal_Enrichmentsummary.txt",sep="\t",row.names=F,quote=F)
-write.table(her2up,"Her2_Enrichmentsummary.txt",sep="\t",row.names=F,quote=F)
-write.table(lumAup,"LumA_Enrichmentsummary.txt",sep="\t",row.names=F,quote=F)
-write.table(lumBup,"LumB_Enrichmentsummary.txt",sep="\t",row.names=F,quote=F)
-write.table(basaldown,"Basal_Enrichment_downnew.txt",sep="\t",row.names=F,quote=F)
-#write.table(her2down,"Enrichment/Her2_Enrichment_downnew.txt",sep="\t",row.names=F,quote=F)
-write.table(lumAdown,"LumA_Enrichment_downnew.txt",sep="\t",row.names=F,quote=F)
-write.table(lumBdown,"LumB_Enrichment_downnew.txt",sep="\t",row.names=F,quote=F)
+write.table(basalup,"Basal_upEnrichmentsummary.txt",sep="\t",row.names=F,quote=F)
+write.table(her2up,"Her2_upEnrichmentsummary.txt",sep="\t",row.names=F,quote=F)
+write.table(lumAup,"LumA_upEnrichmentsummary.txt",sep="\t",row.names=F,quote=F)
+write.table(lumBup,"LumB_upEnrichmentsummary.txt",sep="\t",row.names=F,quote=F)
+write.table(basaldown,"Basal_downEnrichmentsummary.txt",sep="\t",row.names=F,quote=F)
+#write.table(her2down,"Enrichment/Her2_downEnrichmentsummary.txt",sep="\t",row.names=F,quote=F)
+write.table(lumAdown,"LumA_downEnrichmentsummary.txt",sep="\t",row.names=F,quote=F)
+write.table(lumBdown,"LumB_downEnrichmentsummary.txt",sep="\t",row.names=F,quote=F)
 
 
 ## creating heatmap figure ##
