@@ -1,0 +1,35 @@
+Pathway,PathAnnotation
+GO:0006302,double-strand break repair
+WP236,Adipogenesis
+WP2324,AGE-RAGE pathway
+Pathway_Alpha6Beta4Integrin,Alpha6Beta4Integrin
+atm_pathway,ATM pathway
+GO:0007596,blood coagulation
+R-HSA-1640170,Cell Cycle
+KEGG:04062,Chemokine signaling pathway
+R-HSA-1650814,Collagen biosynthesis and modifying enzymes
+R-HSA-1474290,Collagen formation
+R-HSA-1280215,Cytokine Signaling in Immune system
+WP707,DNA Damage Response
+GO:0006281,DNA repair
+KEGG:04512,ECM-receptor interaction
+GO:0030198,extracellular matrix organization
+KEGG:04510,Focal adhesion
+R-HSA-168249,Innate Immune System
+R-HSA-354192,Integrin alphaIIb beta3 signaling
+R-HSA-216083,Integrin cell surface interactions
+avb3_integrin_pathway,Integrins in angiogenesis
+GO:0007259,JAK-STAT cascade
+R-HSA-5368287,Mitochondrial translation
+R-HSA-1852241,Organelle biogenesis and maintenance
+KEGG:04151,PI3K-Akt signaling pathway
+R-HSA-76002,"Platelet activation, signaling and aggregation"
+GO:0002576,Platelet degranulation
+KEGG:05205,Proteoglycans in cancer
+R-HSA-449147,Signaling by Interleukins
+R-HSA-186797,Signaling by PDGF
+R-HSA-194138,Signaling by VEGF
+tcptp_pathway,Signaling events mediated by TCPTP
+KEGG:04620,Toll-like receptor signaling pathway
+WP2203,TSLP Signaling Pathway
+WP2036,TWEAK Signaling Pathway

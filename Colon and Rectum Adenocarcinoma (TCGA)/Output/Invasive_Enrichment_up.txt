@@ -1,0 +1,314 @@
+Pathway	PathAnnotation	HypergeoPval	NumGene_inPathway	NumGenes_inbg	PropPathway	NumEdgesformed_inbg	Enriched_Edgesize
+Di-unsaturated fatty acid beta-oxidation	Di-unsaturated fatty acid beta-oxidation	0.0579791	23	19	0.826087	7	1
+GO:0000082	G1/S transition of mitotic cell cycle	0.944903	153	123	0.803922	889	4
+GO:0000165	MAPK cascade	0.982752	250	142	0.568	701	2
+GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	0.385728	118	100	0.847458	1827	17
+GO:0000186	activation of MAPKK activity	0.98468	229	137	0.598253	717	2
+GO:0000209	protein polyubiquitination	0.978325	137	94	0.686131	670	2
+GO:0000278	mitotic cell cycle	1	422	317	0.751185	2146	2
+GO:0000398	mRNA splicing, via spliceosome	0.999476	196	162	0.826531	1393	3
+GO:0001649	osteoblast differentiation	0.330463	103	66	0.640777	47	1
+GO:0001701	in utero embryonic development	0.238984	210	107	0.509524	32	1
+GO:0001843	neural tube closure	0.0335535	78	41	0.525641	4	1
+GO:0002181	cytoplasmic translation	0.43075	21	20	0.952381	66	1
+GO:0002223	stimulatory C-type lectin receptor signaling pathway	0.981014	121	87	0.719008	688	2
+GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	0.983379	97	86	0.886598	706	2
+GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	0.97926	75	66	0.88	676	2
+GO:0002576	platelet degranulation	0.468352	83	63	0.759036	74	1
+GO:0006281	DNA repair	0.768947	290	197	0.67931	616	4
+GO:0006302	double-strand break repair	0.577889	64	53	0.828125	101	1
+GO:0006338	chromatin remodeling	0.503475	91	57	0.626374	82	1
+GO:0006367	transcription initiation from RNA polymerase II promoter	0.277728	250	157	0.628	122	2
+GO:0006397	mRNA processing	0.907228	168	105	0.625	278	1
+GO:0006412	translation	0.977923	231	196	0.848485	2321	12
+GO:0006413	translational initiation	0.999932	137	123	0.89781	2113	5
+GO:0006414	translational elongation	0.988379	95	85	0.894737	1833	8
+GO:0006415	translational termination	0.998931	84	77	0.916667	1707	5
+GO:0006418	tRNA aminoacylation for protein translation	2.17626e-05	42	39	0.928571	98	7
+GO:0006457	protein folding	0.228613	165	113	0.684848	194	3
+GO:0006521	regulation of cellular amino acid metabolic process	0.969893	51	45	0.882353	625	2
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	0.999128	107	98	0.915888	1738	5
+GO:0006633	fatty acid biosynthetic process	2.42271e-06	40	25	0.625	4	3
+GO:0006635	fatty acid beta-oxidation	0.0499065	37	26	0.702703	6	1
+GO:0006915	apoptotic process	0.996357	600	348	0.58	1125	3
+GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	0.970967	66	57	0.863636	630	2
+GO:0006996	organelle organization	1.1242e-06	293	182	0.62116	378	15
+GO:0007050	cell cycle arrest	0.00275167	141	78	0.553191	33	3
+GO:0007173	epidermal growth factor receptor signaling pathway	0.971444	321	199	0.619938	823	3
+GO:0007229	integrin-mediated signaling pathway	0.385266	79	54	0.683544	57	1
+GO:0007264	small GTPase mediated signal transduction	0.999037	639	380	0.594679	1310	3
+GO:0007265	Ras protein signal transduction	0.987186	241	148	0.614108	741	2
+GO:0007411	axon guidance	0.919531	533	286	0.536585	1131	6
+GO:0007596	blood coagulation	0.589872	486	273	0.561728	484	4
+GO:0008285	negative regulation of cell proliferation	0.218168	385	198	0.514286	103	2
+GO:0008286	insulin receptor signaling pathway	0.950718	301	176	0.584718	738	3
+GO:0008380	RNA splicing	0.998979	238	179	0.752101	1302	3
+GO:0008543	fibroblast growth factor receptor signaling pathway	0.952551	288	174	0.604167	744	3
+GO:0009411	response to UV	0.0499065	43	29	0.674419	6	1
+GO:0010467	gene expression	0.795285	854	643	0.752927	5891	45
+GO:0010499	proteasomal ubiquitin-independent protein catabolic process	0.581481	22	18	0.818182	102	1
+GO:0010628	positive regulation of gene expression	0.198991	216	125	0.578704	26	1
+GO:0012501	programmed cell death	0.992014	158	129	0.816456	804	2
+GO:0016032	viral process	0.923516	559	442	0.790698	4048	27
+GO:0018279	protein N-linked glycosylation via asparagine	0.295268	125	74	0.592	41	1
+GO:0019058	viral life cycle	0.999713	144	121	0.840278	1904	5
+GO:0019083	viral transcription	0.99934	109	100	0.917431	1780	5
+GO:0019221	cytokine-mediated signaling pathway	0.903165	260	156	0.6	273	1
+GO:0019985	translesion synthesis	0.486213	47	38	0.808511	78	1
+GO:0030168	platelet activation	0.549019	213	126	0.591549	216	2
+GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	0.978797	81	71	0.876543	673	2
+GO:0031295	T cell costimulation	0.232459	73	42	0.575342	31	1
+GO:0032543	mitochondrial translation	3.48158e-08	100	85	0.85	288	15
+GO:0033209	tumor necrosis factor-mediated signaling pathway	0.976675	116	81	0.698276	660	2
+GO:0033540	fatty acid beta-oxidation using acyl-CoA oxidase	0.0417648	11	10	0.909091	5	1
+GO:0033559	unsaturated fatty acid metabolic process	0.0417648	13	8	0.615385	5	1
+GO:0034641	cellular nitrogen compound metabolic process	0.975449	187	116	0.620321	653	2
+GO:0035338	long-chain fatty-acyl-CoA biosynthetic process	0.000214884	21	11	0.52381	3	2
+GO:0036109	alpha-linolenic acid metabolic process	0.0417648	13	8	0.615385	5	1
+GO:0038061	NIK/NF-kappaB signaling	0.977842	67	60	0.895522	667	2
+GO:0038095	Fc-epsilon receptor signaling pathway	0.993538	314	181	0.576433	832	2
+GO:0042590	antigen processing and presentation of exogenous peptide antigen via MHC class I	0.979412	79	69	0.873418	677	2
+GO:0042769	DNA damage response, detection of DNA damage	0.410965	35	30	0.857143	62	1
+GO:0042787	protein ubiquitination involved in ubiquitin-dependent protein catabolic process	0.00900339	72	36	0.5	17	2
+GO:0042981	regulation of apoptotic process	0.982495	216	121	0.560185	699	2
+GO:0043066	negative regulation of apoptotic process	0.999524	477	293	0.614256	1168	2
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	0.0599374	173	99	0.572254	246	5
+GO:0043687	post-translational protein modification	0.799437	312	179	0.573718	188	1
+GO:0044255	cellular lipid metabolic process	0.000832318	150	91	0.606667	22	3
+GO:0044267	cellular protein metabolic process	0.999907	637	430	0.675039	2663	8
+GO:0044281	small molecule metabolic process	0.997703	1450	832	0.573793	1775	6
+GO:0045087	innate immune response	0.999817	849	454	0.534747	1534	3
+GO:0045190	isotype switching	0.0335535	15	12	0.8	4	1
+GO:0045893	positive regulation of transcription, DNA-templated	0.8176	497	271	0.545272	365	2
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	0.978187	280	179	0.639286	864	3
+GO:0048011	neurotrophin TRK receptor signaling pathway	0.988703	394	241	0.611675	962	3
+GO:0048013	ephrin receptor signaling pathway	0.0404831	91	60	0.659341	89	3
+GO:0050900	leukocyte migration	0.524241	114	72	0.631579	87	1
+GO:0051084	'de novo' posttranslational protein folding	0.0290116	38	31	0.815789	78	3
+GO:0051259	protein oligomerization	0.0417648	50	32	0.64	5	1
+GO:0051436	negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0.973589	66	57	0.863636	643	2
+GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	0.975806	71	61	0.859155	655	2
+GO:0051439	regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0.978165	75	65	0.866667	669	2
+GO:0070124	mitochondrial translational initiation	1.21419e-08	84	74	0.880952	266	15
+GO:0070125	mitochondrial translational elongation	1.80174e-08	84	75	0.892857	274	15
+GO:0070126	mitochondrial translational termination	1.34185e-08	86	74	0.860465	268	15
+GO:0070301	cellular response to hydrogen peroxide	0.104998	46	32	0.695652	13	1
+GO:0090090	negative regulation of canonical Wnt signaling pathway	0.974161	149	91	0.610738	646	2
+GO:0090263	positive regulation of canonical Wnt signaling pathway	0.975269	130	82	0.630769	652	2
+GO:0097193	intrinsic apoptotic signaling pathway	0.358448	59	49	0.830508	52	1
+KEGG:00062	Fatty acid elongation	0.000214884	25	14	0.56	3	2
+KEGG:00240	Pyrimidine metabolism	0.127621	106	74	0.698113	16	1
+KEGG:00970	Aminoacyl-tRNA biosynthesis	0.440392	66	38	0.575758	68	1
+KEGG:01100	Metabolic pathways	0.412667	1130	630	0.557522	720	7
+KEGG:03010	Ribosome	0.774151	138	114	0.826087	1820	13
+KEGG:03040	Spliceosome	0.99575	133	107	0.804511	887	2
+KEGG:03050	Proteasome	0.958347	44	42	0.954545	580	2
+KEGG:03420	Nucleotide excision repair	0.395677	47	31	0.659574	59	1
+KEGG:04015	Rap1 signaling pathway	0.43075	211	111	0.526066	66	1
+KEGG:04066	HIF-1 signaling pathway	0.563209	103	74	0.718447	97	1
+KEGG:04068	FoxO signaling pathway	0.245453	134	84	0.626866	33	1
+KEGG:04120	Ubiquitin mediated proteolysis	0.13082	137	91	0.664234	74	2
+KEGG:04144	Endocytosis	0.890819	261	156	0.597701	259	1
+KEGG:04146	Peroxisome	0.0111945	84	46	0.547619	19	2
+KEGG:04152	AMPK signaling pathway	0.000302198	124	75	0.604839	38	4
+KEGG:04520	Adherens junction	0.486213	73	55	0.753425	78	1
+KEGG:04640	Hematopoietic cell lineage	0.00702948	88	46	0.522727	15	2
+KEGG:04910	Insulin signaling pathway	0.00888842	142	85	0.598592	50	3
+KEGG:04915	Estrogen signaling pathway	0.420941	100	57	0.57	64	1
+KEGG:04919	Thyroid hormone signaling pathway	0.258226	119	67	0.563025	35	1
+KEGG:04920	Adipocytokine signaling pathway	0.238984	70	41	0.585714	32	1
+KEGG:04921	Oxytocin signaling pathway	0.232459	159	81	0.509434	31	1
+KEGG:04922	Glucagon signaling pathway	0.000126657	102	55	0.539216	12	3
+KEGG:04932	Non-alcoholic fatty liver disease (NAFLD)	0.877952	151	105	0.695364	246	1
+KEGG:05016	Huntington's disease	0.744396	195	135	0.692308	312	2
+KEGG:05120	Epithelial cell signaling in Helicobacter pylori infection	0.347397	68	48	0.705882	50	1
+KEGG:05145	Toxoplasmosis	0.602404	135	84	0.622222	108	1
+KEGG:05200	Pathways in cancer	0.984851	401	242	0.603491	489	1
+KEGG:05202	Transcriptional misregulation in cancer	0.563209	179	103	0.575419	97	1
+KEGG:05203	Viral carcinogenesis	0.571122	206	131	0.635922	225	2
+KEGG:05205	Proteoglycans in cancer	0.88105	204	138	0.676471	249	1
+KEGG:05410	Hypertrophic cardiomyopathy (HCM)	0.232459	83	48	0.578313	31	1
+Leukotriene metabolism	Leukotriene metabolism	0.400816	104	62	0.596154	60	1
+Mono-unsaturated fatty acid beta-oxidation	Mono-unsaturated fatty acid beta-oxidation	0.0335535	21	17	0.809524	4	1
+Omega-3 fatty acid metabolism	Omega-3 fatty acid metabolism	0.0252719	16	12	0.75	3	1
+Omega-6 fatty acid metabolism	Omega-6 fatty acid metabolism	0.0659833	28	24	0.857143	8	1
+PA165948566	Metformin Pathway, Pharmacodynamic	0.000257025	32	25	0.78125	15	3
+PWY66-391	fatty acid &beta;-oxidation (peroxisome)	0.0499065	19	15	0.789474	6	1
+Pathway_Alpha6Beta4Integrin	Alpha6Beta4Integrin	0.227527	71	56	0.788732	106	2
+Pathway_EGFR1	EGFR1	0.707477	453	319	0.704194	959	7
+Pathway_KitReceptor	KitReceptor	0.425866	71	51	0.71831	65	1
+Pathway_Leptin	Leptin	0.454551	62	50	0.806452	71	1
+Pathway_Prolactin	Prolactin	0.656186	70	53	0.757143	125	1
+Pathway_TCR	TCR	0.793819	244	155	0.635246	346	2
+Pathway_TNFalpha	TNFalpha	0.832987	234	177	0.75641	534	3
+Phytanic acid peroxisomal oxidation	Phytanic acid peroxisomal oxidation	0.0499065	16	11	0.6875	6	1
+R-HSA-109582	Hemostasis	0.6075	493	279	0.565923	495	4
+R-HSA-109703	PKB-mediated events	0.0579791	41	23	0.560976	7	1
+R-HSA-110314	Recognition of DNA damage by PCNA-containing replication complex	0.405912	28	24	0.857143	61	1
+R-HSA-112399	IRS-mediated signalling	0.361563	235	122	0.519149	149	2
+R-HSA-114608	Platelet degranulation 	0.454551	82	62	0.756098	71	1
+R-HSA-1227986	Signaling by ERBB2	0.799437	277	152	0.548736	188	1
+R-HSA-1236394	Signaling by ERBB4	0.717578	263	143	0.543726	148	1
+R-HSA-1266738	Developmental Biology	0.886968	586	295	0.503413	602	3
+R-HSA-1280215	Cytokine Signaling in Immune system	0.977499	376	199	0.529255	443	1
+R-HSA-1295596	Spry regulation of FGF signaling	0.0335535	14	9	0.642857	4	1
+R-HSA-1430728	Metabolism	0.89042	1481	791	0.534099	1065	6
+R-HSA-1433557	Signaling by SCF-KIT	0.814309	264	144	0.545455	197	1
+R-HSA-1500931	Cell-Cell communication	0.205745	128	71	0.554688	99	2
+R-HSA-156827	L13a-mediated translational silencing of Ceruloplasmin expression	0.99966	117	98	0.837607	1879	5
+R-HSA-156842	Eukaryotic Translation Elongation	0.999403	101	81	0.80198	1795	5
+R-HSA-156902	Peptide chain elongation	0.999271	96	78	0.8125	1765	5
+R-HSA-157118	Signaling by NOTCH	0.127621	107	55	0.514019	16	1
+R-HSA-157279	3, -UTR-mediated translational regulation	0.99966	117	98	0.837607	1879	5
+R-HSA-1643685	Disease	0.916117	483	300	0.621118	652	3
+R-HSA-165159	mTOR signalling	0.0579791	40	23	0.575	7	1
+R-HSA-166520	Signalling by NGF	0.9663	386	222	0.57513	396	1
+R-HSA-168249	Innate Immune System	0.998485	709	357	0.503526	756	1
+R-HSA-177929	Signaling by EGFR	0.856378	292	163	0.558219	227	1
+R-HSA-1799339	SRP-dependent cotranslational protein targeting to membrane	0.999111	119	96	0.806723	1735	5
+R-HSA-180292	GAB1 signalosome	0.178214	102	59	0.578431	23	1
+R-HSA-1852241	Organelle biogenesis and maintenance	2.05463e-06	293	180	0.614334	397	15
+R-HSA-186763	Downstream signal transduction	0.839463	279	152	0.544803	214	1
+R-HSA-186797	Signaling by PDGF	0.857603	301	162	0.538206	228	1
+R-HSA-187037	NGF signalling via TRKA from the plasma membrane	0.880026	310	173	0.558065	248	1
+R-HSA-190236	Signaling by FGFR	0.733994	274	146	0.532847	155	1
+R-HSA-194138	Signaling by VEGF	0.914117	274	156	0.569343	287	1
+R-HSA-194315	Signaling by Rho GTPases	0.986571	404	241	0.596535	503	1
+R-HSA-195258	RHO GTPase Effectors	0.97826	289	193	0.66782	447	1
+R-HSA-1980143	Signaling by NOTCH1	0.0895909	73	37	0.506849	11	1
+R-HSA-202733	Cell surface interactions at the vascular wall	0.472874	101	61	0.60396	75	1
+R-HSA-2046104	alpha-linolenic (omega3) and linoleic (omega6) acid metabolism	0.0417648	13	8	0.615385	5	1
+R-HSA-2046106	alpha-linolenic acid (ALA) metabolism	0.0417648	13	8	0.615385	5	1
+R-HSA-210990	PECAM1 interactions	0.142385	12	11	0.916667	18	1
+R-HSA-2122947	NOTCH1 Intracellular Domain Regulates Transcription	0.0895909	47	28	0.595745	11	1
+R-HSA-2172127	DAP12 interactions	0.785223	298	156	0.52349	180	1
+R-HSA-2262752	Cellular responses to stress	0.968539	367	220	0.599455	404	1
+R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	0.361563	239	124	0.518828	149	2
+R-HSA-2424491	DAP12 signaling	0.775833	282	154	0.546099	175	1
+R-HSA-2428924	IGF1R signaling cascade	0.361563	239	124	0.518828	149	2
+R-HSA-2428928	IRS-related events triggered by IGF1R	0.361563	239	124	0.518828	149	2
+R-HSA-2586552	Signaling by Leptin	0.719984	193	101	0.523316	149	1
+R-HSA-2644602	Signaling by NOTCH1 PEST Domain Mutants in Cancer	0.0659833	53	29	0.54717	8	1
+R-HSA-2644603	Signaling by NOTCH1 in Cancer	0.0659833	53	29	0.54717	8	1
+R-HSA-2644606	Constitutive Signaling by NOTCH1 PEST Domain Mutants	0.0659833	53	29	0.54717	8	1
+R-HSA-2682334	EPH-Ephrin signaling	0.13082	77	48	0.623377	74	2
+R-HSA-2894858	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer	0.0659833	53	29	0.54717	8	1
+R-HSA-2894862	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants	0.0659833	53	29	0.54717	8	1
+R-HSA-3700989	Transcriptional Regulation by TP53	0.0699386	76	47	0.618421	51	2
+R-HSA-373760	L1CAM interactions	0.536282	100	63	0.63	90	1
+R-HSA-379716	Cytosolic tRNA aminoacylation	9.65856e-05	24	24	1	86	6
+R-HSA-379724	tRNA Aminoacylation	2.17626e-05	42	39	0.928571	98	7
+R-HSA-388841	Costimulation by the CD28 family	0.276984	75	41	0.546667	38	1
+R-HSA-389513	CTLA4 inhibitory signaling	0.135035	22	18	0.818182	17	1
+R-HSA-389957	Prefoldin mediated transfer of substrate  to CCT/TriC	0.0262303	27	22	0.814815	75	3
+R-HSA-389958	Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding	0.0262303	28	22	0.785714	75	3
+R-HSA-390466	Chaperonin-mediated protein folding	0.0280678	49	32	0.653061	77	3
+R-HSA-390918	Peroxisomal lipid metabolism	0.0579791	21	16	0.761905	7	1
+R-HSA-391160	Signal regulatory protein (SIRP) family interactions	0.0659833	13	10	0.769231	8	1
+R-HSA-391251	Protein folding	0.030949	55	38	0.690909	80	3
+R-HSA-392499	Metabolism of proteins	0.999923	687	423	0.615721	2692	8
+R-HSA-3928662	EPHB-mediated forward signaling	0.053919	42	32	0.761905	44	2
+R-HSA-3928664	Ephrin signaling	0.0817887	19	12	0.631579	10	1
+R-HSA-422475	Axon guidance	0.832987	459	241	0.525054	534	3
+R-HSA-4420097	VEGFA-VEGFR2 Pathway	0.913378	266	149	0.56015	286	1
+R-HSA-449147	Signaling by Interleukins	0.932452	270	149	0.551852	315	1
+R-HSA-504046	RNA Polymerase I, RNA Polymerase III, and Mitochondrial Transcription	0.454551	149	77	0.516779	71	1
+R-HSA-512988	Interleukin-3, 5 and GM-CSF signaling	0.792451	211	112	0.530806	184	1
+R-HSA-535734	Fatty acid, triacylglycerol, and ketone body metabolism	0.00249275	98	59	0.602041	9	2
+R-HSA-5368286	Mitochondrial translation initiation	1.21419e-08	84	74	0.880952	266	15
+R-HSA-5368287	Mitochondrial translation	2.51687e-08	90	79	0.877778	281	15
+R-HSA-5389840	Mitochondrial translation elongation	1.80174e-08	84	75	0.892857	274	15
+R-HSA-5419276	Mitochondrial translation termination	1.34185e-08	84	74	0.880952	268	15
+R-HSA-556833	Metabolism of lipids and lipoproteins	0.00172349	517	268	0.518375	60	4
+R-HSA-5628897	TP53 Regulates Metabolic Genes	0.0699386	76	47	0.618421	51	2
+R-HSA-5654687	Downstream signaling of activated FGFR1	0.733994	267	145	0.543071	155	1
+R-HSA-5654693	FRS-mediated FGFR1 signaling	0.673381	186	98	0.526882	131	1
+R-HSA-5654696	Downstream signaling of activated FGFR2	0.733994	267	145	0.543071	155	1
+R-HSA-5654700	FRS-mediated FGFR2 signaling	0.673381	186	98	0.526882	131	1
+R-HSA-5654706	FRS-mediated FGFR3 signaling	0.673381	186	98	0.526882	131	1
+R-HSA-5654708	Downstream signaling of activated FGFR3	0.733994	267	145	0.543071	155	1
+R-HSA-5654712	FRS-mediated FGFR4 signaling	0.673381	186	98	0.526882	131	1
+R-HSA-5654716	Downstream signaling of activated FGFR4	0.733994	267	145	0.543071	155	1
+R-HSA-5654726	Negative regulation of FGFR1 signaling	0.0417648	32	18	0.5625	5	1
+R-HSA-5654727	Negative regulation of FGFR2 signaling	0.0417648	34	18	0.529412	5	1
+R-HSA-5654732	Negative regulation of FGFR3 signaling	0.0417648	29	18	0.62069	5	1
+R-HSA-5654733	Negative regulation of FGFR4 signaling	0.0417648	31	17	0.548387	5	1
+R-HSA-5654736	Signaling by FGFR1	0.733994	271	146	0.538745	155	1
+R-HSA-5654738	Signaling by FGFR2	0.733994	273	146	0.534799	155	1
+R-HSA-5654741	Signaling by FGFR3	0.733994	270	146	0.540741	155	1
+R-HSA-5654743	Signaling by FGFR4	0.733994	270	146	0.540741	155	1
+R-HSA-5663202	Diseases of signal transduction	0.54414	180	107	0.594444	92	1
+R-HSA-5663205	Infectious disease	0.957139	249	179	0.718876	368	1
+R-HSA-5663220	RHO GTPases Activate Formins	0.602404	115	88	0.765217	108	1
+R-HSA-5683057	MAPK family signaling cascades	0.749457	225	123	0.546667	162	1
+R-HSA-5684996	MAPK1/MAPK3 signaling	0.684364	191	102	0.534031	135	1
+R-HSA-72163	mRNA Splicing - Major Pathway	0.992014	115	104	0.904348	804	2
+R-HSA-72172	mRNA Splicing	0.992014	115	104	0.904348	804	2
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	0.997739	146	132	0.90411	969	2
+R-HSA-72613	Eukaryotic Translation Initiation	0.999678	125	105	0.84	1887	5
+R-HSA-72689	Formation of a pool of free 40S subunits	0.999452	107	88	0.82243	1808	5
+R-HSA-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	0.999634	118	99	0.838983	1868	5
+R-HSA-72737	Cap-dependent Translation Initiation	0.999678	125	105	0.84	1887	5
+R-HSA-72764	Eukaryotic Translation Termination	0.998931	95	77	0.810526	1707	5
+R-HSA-72766	Translation	0.999872	161	131	0.813665	2022	5
+R-HSA-73762	RNA Polymerase I Transcription Initiation	0.219243	48	31	0.645833	29	1
+R-HSA-73857	RNA Polymerase II Transcription	0.581481	110	82	0.745455	102	1
+R-HSA-73893	DNA Damage Bypass	0.494918	46	37	0.804348	80	1
+R-HSA-73894	DNA Repair	0.722969	147	106	0.721088	299	2
+R-HSA-74159	Transcription	0.133523	242	148	0.61157	230	4
+R-HSA-74160	Gene Expression	0.557572	1214	695	0.572488	5125	43
+R-HSA-74751	Insulin receptor signalling cascade	0.361563	238	124	0.521008	149	2
+R-HSA-74752	Signaling by Insulin receptor	0.391765	262	140	0.534351	159	2
+R-HSA-76002	Platelet activation, signaling and aggregation	0.331624	229	130	0.567686	239	3
+R-HSA-76005	Response to elevated platelet cytosolic Ca2+	0.454551	87	64	0.735632	71	1
+R-HSA-927802	Nonsense-Mediated Decay (NMD)	0.999304	111	87	0.783784	1772	5
+R-HSA-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	0.999111	100	82	0.82	1735	5
+R-HSA-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	0.999304	111	87	0.783784	1772	5
+Saturated fatty acids beta-oxidation	Saturated fatty acids beta-oxidation	0.0335535	25	20	0.8	4	1
+TRNA-CHARGING-PWY	tRNA charging	0.440392	38	34	0.894737	68	1
+Trihydroxycoprostanoyl-CoA beta-oxidation	Trihydroxycoprostanoyl-CoA beta-oxidation	0.0252719	12	12	1	3	1
+WP1403	AMPK Signaling	1.19607e-05	68	36	0.529412	6	3
+WP1471	TOR Signaling	0.0252719	34	18	0.529412	3	1
+WP1541	Energy Metabolism	0.0252719	47	34	0.723404	3	1
+WP183	Proteasome Degradation	0.994024	64	59	0.921875	597	1
+WP1982	SREBP signalling	0.000314345	68	52	0.764706	16	3
+WP1993	Angiogenesis overview	0.28313	61	42	0.688525	39	1
+WP2034	Leptin signaling pathway	0.258879	76	63	0.828947	116	2
+WP2037	Prolactin Signaling Pathway	0.315287	76	58	0.763158	134	2
+WP2038	Regulation of Microtubule Cytoskeleton	0.127621	46	32	0.695652	16	1
+WP2203	TSLP Signaling Pathway	0.463791	47	37	0.787234	73	1
+WP2324	AGE-RAGE pathway	0.540228	66	53	0.80303	91	1
+WP2332	Interleukin-11 Signaling Pathway	0.31309	44	37	0.840909	44	1
+WP2374	Oncostatin M Signaling Pathway	0.581481	65	58	0.892308	102	1
+WP2380	BDNF signaling pathway	0.676162	144	92	0.638889	132	1
+WP244	Alpha 6 Beta 4 signaling pathway	0.258226	33	27	0.818182	35	1
+WP2593	JAK-STAT	0.205799	43	34	0.790698	27	1
+WP286	IL-3 Signaling Pathway	0.385266	49	38	0.77551	57	1
+WP304	Kit receptor signaling pathway	0.43075	59	45	0.762712	66	1
+WP313	Signaling of Hepatocyte Growth Factor Receptor	0.31309	34	29	0.852941	44	1
+WP3303	Rac1-Pak1-p38-MMP-2 pathway	0.224404	66	52	0.787879	105	2
+WP411	mRNA Processing	0.963237	127	106	0.834646	784	3
+WP437	EGF-EGFR Signaling Pathway	0.82808	162	112	0.691358	206	1
+WP477	Cytoplasmic Ribosomal Proteins	0.997017	88	80	0.909091	1732	6
+ajdiss_2pathway	Posttranslational regulation of adherens junction stability and dissassembly	0.324721	53	38	0.716981	46	1
+avb3_integrin_pathway	Integrins in angiogenesis	0.400816	63	48	0.761905	60	1
+cell2cellpathway	cell to cell adhesion signaling	0.0973271	8	6	0.75	12	1
+chrebppathway	chrebp regulation by carbohydrates and camp	0.0252719	42	25	0.595238	3	1
+cxcr4_pathway	CXCR4-mediated signaling events	0.395677	88	55	0.625	59	1
+ecadherin_keratinocyte_pathway	E-cadherin signaling in keratinocytes	0.17117	21	19	0.904762	22	1
+ecadherin_nascentaj_pathway	E-cadherin signaling in the nascent adherens junction	0.270784	36	31	0.861111	37	1
+ephbfwdpathway	EPHB forward signaling	0.0496164	39	32	0.820513	42	2
+ephrinbrevpathway	Ephrin B reverse signaling	0.0252719	24	15	0.625	3	1
+erbb2erbb3pathway	ErbB2/ErbB3 signaling events	0.232459	40	30	0.75	31	1
+fgf_pathway	FGF signaling pathway	0.053919	56	42	0.75	44	2
+il12_2pathway	IL12-mediated signaling events	0.463791	65	37	0.569231	73	1
+il23pathway	IL23-mediated signaling events	0.336155	37	23	0.621622	48	1
+leptinpathway	reversal of insulin resistance by leptin	6.09538e-07	9	7	0.777778	3	3
+met_pathway	Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)	0.563209	82	63	0.768293	97	1
+p53downstreampathway	Direct p53 effectors	0.374675	141	93	0.659574	55	1
+pdgfrbpathway	PDGFR-beta signaling pathway	0.863573	126	96	0.761905	233	1
+proteasomepathway	proteasome complex	0.421307	24	24	1	169	2
+ret_pathway	Signaling events regulated by Ret tyrosine kinase	0.232459	39	26	0.666667	31	1
+smad2_3nuclearpathway	Regulation of nuclear SMAD2/3 signaling	0.225879	78	56	0.717949	30	1
+syndecan_2_pathway	Syndecan-2-mediated signaling events	0.00798879	41	30	0.731707	16	2
+vegfr1_2_pathway	Signaling events mediated by VEGFR1 and VEGFR2	0.516041	68	55	0.808824	85	1

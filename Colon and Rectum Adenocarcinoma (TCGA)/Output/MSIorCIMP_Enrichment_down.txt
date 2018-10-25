@@ -1,0 +1,314 @@
+Pathway	PathAnnotation	HypergeoPval	NumGene_inPathway	NumGenes_inbg	PropPathway	NumEdgesformed_inbg	Enriched_Edgesize
+GO:0000077	DNA damage checkpoint	0.00888146	28	18	0.642857	3	1
+GO:0000209	protein polyubiquitination	0.865191	137	94	0.686131	670	1
+GO:0000244	spliceosomal tri-snRNP complex assembly	0.040781	12	10	0.833333	14	1
+GO:0000375	RNA splicing, via transesterification reactions	0.0988725	25	17	0.68	35	1
+GO:0000398	mRNA splicing, via spliceosome	0.785132	196	162	0.826531	1393	3
+GO:0000723	telomere maintenance	0.0447567	66	45	0.681818	113	2
+GO:0000724	double-strand break repair via homologous recombination	3.81917e-14	70	38	0.542857	31	8
+GO:0005975	carbohydrate metabolic process	0.342816	337	184	0.545994	141	1
+GO:0006006	glucose metabolic process	0.133067	126	86	0.68254	48	1
+GO:0006094	gluconeogenesis	0.0549413	47	32	0.680851	19	1
+GO:0006281	DNA repair	6.39885e-10	290	197	0.67931	616	15
+GO:0006302	double-strand break repair	1.44329e-14	64	53	0.828125	101	11
+GO:0006310	DNA recombination	0.114818	71	43	0.605634	41	1
+GO:0006367	transcription initiation from RNA polymerase II promoter	0.304528	250	157	0.628	122	1
+GO:0006412	translation	0.992839	231	196	0.848485	2321	2
+GO:0006513	protein monoubiquitination	0.0206015	26	19	0.730769	7	1
+GO:0006915	apoptotic process	0.965888	600	348	0.58	1125	1
+GO:0006974	cellular response to DNA damage stimulus	1.55392e-05	191	127	0.664921	50	4
+GO:0006996	organelle organization	0.000148189	293	182	0.62116	378	7
+GO:0007004	telomere maintenance via telomerase	0.000182284	14	10	0.714286	7	2
+GO:0007050	cell cycle arrest	0.0934941	141	78	0.553191	33	1
+GO:0007062	sister chromatid cohesion	0.0147588	15	12	0.8	5	1
+GO:0007093	mitotic cell cycle checkpoint	0.00888146	30	21	0.7	3	1
+GO:0007172	signal complex assembly	0.00888146	8	5	0.625	3	1
+GO:0007173	epidermal growth factor receptor signaling pathway	0.703581	321	199	0.619938	823	2
+GO:0007179	transforming growth factor beta receptor signaling pathway	0.000157007	132	88	0.666667	35	3
+GO:0007229	integrin-mediated signaling pathway	0.155981	79	54	0.683544	57	1
+GO:0007264	small GTPase mediated signal transduction	0.349333	639	380	0.594679	1310	5
+GO:0007265	Ras protein signal transduction	0.647785	241	148	0.614108	741	2
+GO:0007411	axon guidance	0.433366	533	286	0.536585	1131	4
+GO:0007596	blood coagulation	0.764315	486	273	0.561728	484	1
+GO:0008283	cell proliferation	0.411465	352	189	0.536932	178	1
+GO:0008285	negative regulation of cell proliferation	0.264023	385	198	0.514286	103	1
+GO:0008380	RNA splicing	0.745317	238	179	0.752101	1302	3
+GO:0008543	fibroblast growth factor receptor signaling pathway	0.649965	288	174	0.604167	744	2
+GO:0010332	response to gamma radiation	0.0118245	33	25	0.757576	4	1
+GO:0010467	gene expression	0.999931	854	643	0.752927	5891	5
+GO:0012501	programmed cell death	0.909958	158	129	0.816456	804	1
+GO:0016032	viral process	0.960132	559	442	0.790698	4048	7
+GO:0030168	platelet activation	0.47455	213	126	0.591549	216	1
+GO:0030308	negative regulation of cell growth	0.0379238	121	69	0.570248	13	1
+GO:0030866	cortical actin cytoskeleton organization	0.0118245	24	19	0.791667	4	1
+GO:0031573	intra-S DNA damage checkpoint	0.00888146	11	8	0.727273	3	1
+GO:0031954	positive regulation of protein autophosphorylation	2.57272e-08	17	11	0.647059	3	3
+GO:0032508	DNA duplex unwinding	0.000290926	46	34	0.73913	43	3
+GO:0032543	mitochondrial translation	0.000236889	100	85	0.85	288	6
+GO:0032876	negative regulation of DNA endoreduplication	0.0118245	5	5	1	4	1
+GO:0033674	positive regulation of kinase activity	2.57272e-08	8	4	0.5	3	3
+GO:0038083	peptidyl-tyrosine autophosphorylation	0.0264098	40	22	0.55	9	1
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	0.250751	94	56	0.595745	97	1
+GO:0042127	regulation of cell proliferation	0.0176845	147	82	0.557823	6	1
+GO:0042493	response to drug	0.334934	308	188	0.61039	137	1
+GO:0042752	regulation of circadian rhythm	0.040781	49	32	0.653061	14	1
+GO:0042981	regulation of apoptotic process	0.876456	216	121	0.560185	699	1
+GO:0043066	negative regulation of apoptotic process	0.676401	477	293	0.614256	1168	3
+GO:0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	0.519566	173	99	0.572254	246	1
+GO:0044281	small molecule metabolic process	0.969679	1450	832	0.573793	1775	2
+GO:0045087	innate immune response	0.479814	849	454	0.534747	1534	5
+GO:0045190	isotype switching	0.0118245	15	12	0.8	4	1
+GO:0045893	positive regulation of transcription, DNA-templated	0.295163	497	271	0.545272	365	2
+GO:0046777	protein autophosphorylation	0.0688938	164	82	0.5	24	1
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	0.474134	280	179	0.639286	864	3
+GO:0048011	neurotrophin TRK receptor signaling pathway	0.781336	394	241	0.611675	962	2
+GO:0048013	ephrin receptor signaling pathway	0.00242257	91	60	0.659341	89	3
+GO:0048511	rhythmic process	0.0321838	48	29	0.604167	11	1
+GO:0051591	response to cAMP	0.0379238	51	32	0.627451	13	1
+GO:0051592	response to calcium ion	0.0293011	55	39	0.709091	10	1
+GO:0051897	positive regulation of protein kinase B signaling	0.035058	82	47	0.573171	12	1
+GO:0061024	membrane organization	0.442234	159	105	0.660377	196	1
+GO:0070124	mitochondrial translational initiation	0.000154466	84	74	0.880952	266	6
+GO:0070125	mitochondrial translational elongation	0.000181265	84	75	0.892857	274	6
+GO:0070126	mitochondrial translational termination	0.000160851	86	74	0.860465	268	6
+GO:0090263	positive regulation of canonical Wnt signaling pathway	0.857691	130	82	0.630769	652	1
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	0.0235099	80	40	0.5	8	1
+GO:2000811	negative regulation of anoikis	0.0147588	16	13	0.8125	5	1
+KEGG:01100	Metabolic pathways	0.884024	1130	630	0.557522	720	1
+KEGG:03008	Ribosome biogenesis in eukaryotes	0.0156643	91	55	0.604396	64	2
+KEGG:03010	Ribosome	0.455763	138	114	0.826087	1820	6
+KEGG:03040	Spliceosome	0.741883	133	107	0.804511	887	2
+KEGG:03440	Homologous recombination	1.14023e-05	29	22	0.758621	15	3
+KEGG:03450	Non-homologous end-joining	0.0321838	13	7	0.538462	11	1
+KEGG:04012	ErbB signaling pathway	0.138212	87	52	0.597701	50	1
+KEGG:04015	Rap1 signaling pathway	0.00102609	211	111	0.526066	66	3
+KEGG:04062	Chemokine signaling pathway	0.409707	191	97	0.507853	177	1
+KEGG:04120	Ubiquitin mediated proteolysis	0.197633	137	91	0.664234	74	1
+KEGG:04144	Endocytosis	0.537862	261	156	0.597701	259	1
+KEGG:04310	Wnt signaling pathway	0.0117409	154	77	0.5	55	2
+KEGG:04390	Hippo signaling pathway	0.153465	154	79	0.512987	56	1
+KEGG:04510	Focal adhesion	0.0526966	207	140	0.676329	283	3
+KEGG:04520	Adherens junction	9.02141e-05	73	55	0.753425	78	4
+KEGG:04530	Tight junction	0.0221725	138	76	0.550725	77	2
+KEGG:04810	Regulation of actin cytoskeleton	0.491523	218	131	0.600917	227	1
+KEGG:04919	Thyroid hormone signaling pathway	0.0988725	119	67	0.563025	35	1
+KEGG:05100	Bacterial invasion of epithelial cells	0.00641037	79	55	0.696203	126	3
+KEGG:05161	Hepatitis B	0.397253	146	92	0.630137	170	1
+KEGG:05166	HTLV-I infection	0.364017	259	154	0.594595	152	1
+KEGG:05168	Herpes simplex infection	0.418445	184	111	0.603261	182	1
+KEGG:05200	Pathways in cancer	0.426842	401	242	0.603491	489	2
+KEGG:05205	Proteoglycans in cancer	0.169252	204	138	0.676471	249	2
+KEGG:05210	Colorectal cancer	0.00066916	62	42	0.677419	13	2
+KEGG:05213	Endometrial cancer	0.0716596	52	35	0.673077	25	1
+KEGG:05215	Prostate cancer	0.214184	89	60	0.674157	81	1
+KEGG:05216	Thyroid cancer	0.0321838	29	19	0.655172	11	1
+KEGG:05219	Bladder cancer	0.0744173	45	36	0.8	26	1
+KEGG:05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	0.127891	74	44	0.594595	46	1
+Methionine and cysteine metabolism	Methionine and cysteine metabolism	0.19524	78	50	0.641026	73	1
+PA162356267	EGFR Inhibitor Pathway, Pharmacodynamics	0.0180535	67	41	0.61194	69	2
+Pathway_Alpha6Beta4Integrin	Alpha6Beta4Integrin	0.0398896	71	56	0.788732	106	2
+Pathway_AndrogenReceptor	AndrogenReceptor	0.00229112	143	101	0.706294	184	4
+Pathway_BCR	BCR	0.320912	129	88	0.682171	130	1
+Pathway_EGFR1	EGFR1	0.00823859	453	319	0.704194	959	8
+Pathway_Fibroblast__growth__factor-1	Fibroblast growth factor-1	0.000254291	74	60	0.810811	102	4
+Pathway_Gastrin	Gastrin	0.148411	41	31	0.756098	54	1
+Pathway_IL5	IL5	0.160991	48	37	0.770833	59	1
+Pathway_KitReceptor	KitReceptor	0.175843	71	51	0.71831	65	1
+Pathway_Leptin	Leptin	0.0190495	62	50	0.806452	71	2
+Pathway_Prolactin	Prolactin	0.310718	70	53	0.757143	125	1
+Pathway_TCR	TCR	0.0201448	244	155	0.635246	346	4
+Pathway_TGF_beta_Receptor	TGF_beta_Receptor	0.0574176	174	127	0.729885	130	2
+Pathway_TNFalpha	TNFalpha	0.212263	234	177	0.75641	534	3
+Pathway_Wnt	Wnt	0.0264098	70	35	0.5	9	1
+Purine metabolism	Purine metabolism	0.377154	224	144	0.642857	159	1
+R-HSA-109582	Hemostasis	0.771963	493	279	0.565923	495	1
+R-HSA-112399	IRS-mediated signalling	0.0728332	235	122	0.519149	149	2
+R-HSA-112412	SOS-mediated signalling	0.051317	185	97	0.524324	122	2
+R-HSA-1227986	Signaling by ERBB2	0.0187915	277	152	0.548736	188	3
+R-HSA-1236394	Signaling by ERBB4	0.0719915	263	143	0.543726	148	2
+R-HSA-1250196	SHC1 events in ERBB2 signaling	0.051317	185	97	0.524324	122	2
+R-HSA-1250347	SHC1 events in ERBB4 signaling	0.051317	185	97	0.524324	122	2
+R-HSA-1266738	Developmental Biology	0.10541	586	295	0.503413	602	4
+R-HSA-1268020	Mitochondrial protein import	0.0988725	54	42	0.777778	35	1
+R-HSA-1280215	Cytokine Signaling in Immune system	0.379201	376	199	0.529255	443	2
+R-HSA-1430728	Metabolism	0.614794	1481	791	0.534099	1065	3
+R-HSA-1433557	Signaling by SCF-KIT	0.116535	264	144	0.545455	197	2
+R-HSA-1500931	Cell-Cell communication	0.00022682	128	71	0.554688	99	4
+R-HSA-157579	Telomere Maintenance	0.285625	81	42	0.518519	113	1
+R-HSA-157858	Gap junction trafficking and regulation	0.035058	14	10	0.714286	12	1
+R-HSA-1640170	Cell Cycle	0.00114219	502	334	0.665339	1820	14
+R-HSA-166520	Signalling by NGF	0.328924	386	222	0.57513	396	2
+R-HSA-167044	Signalling to RAS	0.0535759	194	102	0.525773	125	2
+R-HSA-168249	Innate Immune System	0.0758445	709	357	0.503526	756	5
+R-HSA-169893	Prolonged ERK activation events	0.0653761	192	101	0.526042	140	2
+R-HSA-170834	Signaling by TGF-beta Receptor Complex	0.0235099	66	50	0.757576	8	1
+R-HSA-170968	Frs2-mediated activation	0.0597674	190	100	0.526316	133	2
+R-HSA-170984	ARMS-mediated activation	0.0558696	189	98	0.518519	128	2
+R-HSA-171319	Telomere Extension By Telomerase	0.0264098	6	5	0.833333	9	1
+R-HSA-177929	Signaling by EGFR	0.146437	292	163	0.558219	227	2
+R-HSA-179812	GRB2 events in EGFR signaling	0.051317	185	97	0.524324	122	2
+R-HSA-180336	SHC1 events in EGFR signaling	0.051317	185	97	0.524324	122	2
+R-HSA-180786	Extension of Telomeres	0.257416	29	26	0.896552	100	1
+R-HSA-1852241	Organelle biogenesis and maintenance	0.00126581	293	180	0.614334	397	6
+R-HSA-186763	Downstream signal transduction	0.133285	279	152	0.544803	214	2
+R-HSA-186797	Signaling by PDGF	0.14746	301	162	0.538206	228	2
+R-HSA-187037	NGF signalling via TRKA from the plasma membrane	0.168202	310	173	0.558065	248	2
+R-HSA-187687	Signalling to ERKs	0.0678319	201	107	0.532338	143	2
+R-HSA-187706	Signalling to p38 via RIT and RIN	0.051317	189	98	0.518519	122	2
+R-HSA-190236	Signaling by FGFR	0.0779496	274	146	0.532847	155	2
+R-HSA-194138	Signaling by VEGF	0.0108557	274	156	0.569343	287	4
+R-HSA-194315	Signaling by Rho GTPases	0.0637382	404	241	0.596535	503	4
+R-HSA-195258	RHO GTPase Effectors	0.0449416	289	193	0.66782	447	4
+R-HSA-1963640	GRB2 events in ERBB2 signaling	0.051317	185	97	0.524324	122	2
+R-HSA-199991	Membrane Trafficking	0.47455	157	107	0.681529	216	1
+R-HSA-2172127	DAP12 interactions	0.100385	298	156	0.52349	180	2
+R-HSA-2173793	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	0.00888146	37	26	0.702703	3	1
+R-HSA-2262752	Cellular responses to stress	0.00737795	367	220	0.599455	404	5
+R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	0.0728332	239	124	0.518828	149	2
+R-HSA-2424491	DAP12 signaling	0.0957641	282	154	0.546099	175	2
+R-HSA-2428924	IGF1R signaling cascade	0.0728332	239	124	0.518828	149	2
+R-HSA-2428928	IRS-related events triggered by IGF1R	0.0728332	239	124	0.518828	149	2
+R-HSA-2559583	Cellular Senescence	0.000104497	181	102	0.563536	81	4
+R-HSA-2559586	DNA Damage/Telomere Stress Induced Senescence	3.0403e-06	27	22	0.814815	10	3
+R-HSA-2586552	Signaling by Leptin	0.0728332	193	101	0.523316	149	2
+R-HSA-2682334	EPH-Ephrin signaling	0.00142854	77	48	0.623377	74	3
+R-HSA-354192	Integrin alphaIIb beta3 signaling	0.11218	27	23	0.851852	40	1
+R-HSA-354194	GRB2:SOS provides linkage to MAPK signaling for Integrins 	0.0549413	15	15	1	19	1
+R-HSA-372708	p130Cas linkage to MAPK signaling for integrins	0.0493023	15	14	0.933333	17	1
+R-HSA-373760	L1CAM interactions	0.234966	100	63	0.63	90	1
+R-HSA-375165	NCAM signaling for neurite out-growth	0.0574176	223	112	0.502242	130	2
+R-HSA-391160	Signal regulatory protein (SIRP) family interactions	0.0235099	13	10	0.769231	8	1
+R-HSA-392499	Metabolism of proteins	0.999724	687	423	0.615721	2692	1
+R-HSA-3928662	EPHB-mediated forward signaling	0.000311534	42	32	0.761905	44	3
+R-HSA-3928663	EPHA-mediated growth cone collapse	0.0493023	34	19	0.558824	17	1
+R-HSA-3928664	Ephrin signaling	0.0293011	19	12	0.631579	10	1
+R-HSA-418885	DCC mediated attractive signaling	0.00888146	15	10	0.666667	3	1
+R-HSA-422475	Axon guidance	0.212263	459	241	0.525054	534	3
+R-HSA-4420097	VEGFA-VEGFR2 Pathway	0.0107286	266	149	0.56015	286	4
+R-HSA-449147	Signaling by Interleukins	0.240357	270	149	0.551852	315	2
+R-HSA-451927	Interleukin-2 signaling	0.0597674	202	104	0.514851	133	2
+R-HSA-512988	Interleukin-3, 5 and GM-CSF signaling	0.104125	211	112	0.530806	184	2
+R-HSA-5218921	VEGFR2 mediated cell proliferation	0.0613522	198	105	0.530303	135	2
+R-HSA-5368286	Mitochondrial translation initiation	0.000154466	84	74	0.880952	266	6
+R-HSA-5368287	Mitochondrial translation	0.000207612	90	79	0.877778	281	6
+R-HSA-5389840	Mitochondrial translation elongation	0.000181265	84	75	0.892857	274	6
+R-HSA-5419276	Mitochondrial translation termination	0.000160851	84	74	0.880952	268	6
+R-HSA-556833	Metabolism of lipids and lipoproteins	0.163484	517	268	0.518375	60	1
+R-HSA-5653656	Vesicle-mediated transport	0.551462	195	136	0.697436	269	1
+R-HSA-5654687	Downstream signaling of activated FGFR1	0.0779496	267	145	0.543071	155	2
+R-HSA-5654693	FRS-mediated FGFR1 signaling	0.0581972	186	98	0.526882	131	2
+R-HSA-5654696	Downstream signaling of activated FGFR2	0.0779496	267	145	0.543071	155	2
+R-HSA-5654700	FRS-mediated FGFR2 signaling	0.0581972	186	98	0.526882	131	2
+R-HSA-5654706	FRS-mediated FGFR3 signaling	0.0581972	186	98	0.526882	131	2
+R-HSA-5654708	Downstream signaling of activated FGFR3	0.0779496	267	145	0.543071	155	2
+R-HSA-5654712	FRS-mediated FGFR4 signaling	0.0581972	186	98	0.526882	131	2
+R-HSA-5654716	Downstream signaling of activated FGFR4	0.0779496	267	145	0.543071	155	2
+R-HSA-5654736	Signaling by FGFR1	0.0779496	271	146	0.538745	155	2
+R-HSA-5654738	Signaling by FGFR2	0.0779496	273	146	0.534799	155	2
+R-HSA-5654741	Signaling by FGFR3	0.0779496	270	146	0.540741	155	2
+R-HSA-5654743	Signaling by FGFR4	0.0779496	270	146	0.540741	155	2
+R-HSA-5663220	RHO GTPases Activate Formins	0.274904	115	88	0.765217	108	1
+R-HSA-5673001	RAF/MAP kinase cascade	0.051317	185	97	0.524324	122	2
+R-HSA-5683057	MAPK family signaling cascades	0.0840565	225	123	0.546667	162	2
+R-HSA-5684996	MAPK1/MAPK3 signaling	0.0613522	191	102	0.534031	135	2
+R-HSA-5685940	DNA Double Strand Breaks Response	3.41949e-14	8	8	1	17	7
+R-HSA-69473	G2/M DNA damage checkpoint	1.39242e-10	77	40	0.519481	49	7
+R-HSA-69481	G2/M Checkpoints	1.59259e-05	112	67	0.598214	265	7
+R-HSA-69620	Cell Cycle Checkpoints	5.92696e-05	139	86	0.618705	326	7
+R-HSA-70263	Gluconeogenesis	0.052126	32	23	0.71875	18	1
+R-HSA-70326	Glucose metabolism	0.114818	72	54	0.75	41	1
+R-HSA-71387	Metabolism of carbohydrates	0.336913	261	147	0.563218	138	1
+R-HSA-72163	mRNA Splicing - Major Pathway	0.427812	115	104	0.904348	804	3
+R-HSA-72172	mRNA Splicing	0.427812	115	104	0.904348	804	3
+R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	0.550758	146	132	0.90411	969	3
+R-HSA-73886	Chromosome Maintenance	0.369681	109	59	0.541284	155	1
+R-HSA-73888	Homologous Recombination Repair	2.95763e-13	15	15	1	22	7
+R-HSA-73890	Double-Strand Break Repair	1.74993e-12	22	20	0.909091	48	8
+R-HSA-73894	DNA Repair	1.94904e-09	147	106	0.721088	299	11
+R-HSA-73951	Homologous recombination repair of replication-independent double-strand breaks	2.95763e-13	15	15	1	22	7
+R-HSA-74160	Gene Expression	0.999519	1214	695	0.572488	5125	5
+R-HSA-74751	Insulin receptor signalling cascade	0.0728332	238	124	0.521008	149	2
+R-HSA-74752	Signaling by Insulin receptor	0.0814216	262	140	0.534351	159	2
+R-HSA-75154	Recruitment of repair and signaling proteins to double-strand breaks	3.41949e-14	8	8	1	17	7
+R-HSA-75177	Assembly of the RAD50-MRE11-NBS1 complex at DNA double-strand breaks	1.12082e-09	4	4	1	6	4
+R-HSA-76002	Platelet activation, signaling and aggregation	0.509418	229	130	0.567686	239	1
+R-HSA-76009	Platelet Aggregation (Plug Formation)	0.117448	37	25	0.675676	42	1
+R-HSA-83572	MRN complex relocalizes to nuclear foci	1.12082e-09	4	4	1	6	4
+R-HSA-912526	Interleukin receptor SHC signaling	0.0543367	195	101	0.517949	126	2
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	0.30866	224	124	0.553571	124	1
+Vitamin B9 (folate) metabolism	Vitamin B9 (folate) metabolism	0.0716596	26	19	0.730769	25	1
+WP138	Androgen receptor signaling pathway	1.18302e-05	89	67	0.752809	98	5
+WP1530	miRNA Regulation of DNA Damage Response	4.50973e-13	89	59	0.662921	41	8
+WP185	Integrin-mediated Cell Adhesion	0.324948	101	67	0.663366	132	1
+WP186	Homologous recombination	5.11173e-07	13	11	0.846154	6	3
+WP2018	RANKL-RANK Signaling Pathway	0.160991	55	38	0.690909	59	1
+WP2034	Leptin signaling pathway	0.0469066	76	63	0.828947	116	2
+WP2036	TWEAK Signaling Pathway	0.140773	42	32	0.761905	51	1
+WP2037	Prolactin Signaling Pathway	0.32896	76	58	0.763158	134	1
+WP2038	Regulation of Microtubule Cytoskeleton	0.0464703	46	32	0.695652	16	1
+WP2118	Arrhythmogenic Right Ventricular Cardiomyopathy	0.127891	74	44	0.594595	46	1
+WP2377	Integrated Pancreatic Cancer Pathway	0.00547454	170	129	0.758824	119	3
+WP2380	BDNF signaling pathway	0.0589805	144	92	0.638889	132	2
+WP244	Alpha 6 Beta 4 signaling pathway	0.0988725	33	27	0.818182	35	1
+WP2864	Apoptosis-related network due to altered Notch3 in ovarian cancer	0.138212	53	44	0.830189	50	1
+WP2942	DDX1 as a regulatory component of the Drosha microprocessor	5.11173e-07	7	6	0.857143	6	3
+WP306	Focal Adhesion	0.0347605	190	134	0.705263	239	3
+WP313	Signaling of Hepatocyte Growth Factor Receptor	0.00764044	34	29	0.852941	44	2
+WP3303	Rac1-Pak1-p38-MMP-2 pathway	0.00386291	66	52	0.787879	105	3
+WP366	TGF beta Signaling Pathway	0.00366008	132	96	0.727273	103	3
+WP399	Wnt Signaling Pathway and Pluripotency	0.00177367	101	51	0.50495	21	2
+WP411	mRNA Processing	0.412052	127	106	0.834646	784	3
+WP437	EGF-EGFR Signaling Pathway	0.125334	162	112	0.691358	206	2
+WP438	Non-homologous end joining	0.0321838	7	6	0.857143	11	1
+WP560	TGF Beta Signaling Pathway	0.0661198	55	32	0.581818	23	1
+WP581	EPO Receptor Signaling	0.0744173	26	20	0.769231	26	1
+WP673	ErbB Signaling Pathway	0.0633376	55	37	0.672727	22	1
+WP707	DNA Damage Response	5.07372e-14	68	57	0.838235	32	8
+WP710	DNA Damage Response (only ATM dependent)	0.00574434	110	68	0.618182	38	2
+agrpathway	agrin in postsynaptic differentiation	0.0961873	47	31	0.659574	34	1
+ajdiss_2pathway	Posttranslational regulation of adherens junction stability and dissassembly	0.000355522	53	38	0.716981	46	3
+alphasynuclein_pathway	Alpha-synuclein signaling	0.0235099	32	23	0.71875	8	1
+ap1_pathway	AP-1 transcription factor network	0.0206015	70	51	0.728571	7	1
+ar_nongenomic_pathway	Nongenotropic Androgen signaling	0.0605471	31	23	0.741935	21	1
+ar_tf_pathway	Regulation of Androgen receptor activity	0.00066916	51	31	0.607843	13	2
+atm_pathway	ATM pathway	0	35	30	0.857143	29	11
+atrbrcapathway	role of brca1 brca2 and atr in cancer susceptibility	2.57272e-08	23	17	0.73913	3	3
+avb3_integrin_pathway	Integrins in angiogenesis	0.163484	63	48	0.761905	60	1
+bard1pathway_2	BARD1 signaling events	2.81009e-07	29	26	0.896552	19	4
+betacatenin_nuc_pathway	Regulation of nuclear beta catenin signaling and target gene transcription	0.0221725	80	52	0.65	77	2
+cdc42_pathway	CDC42 signaling events	0.00116722	71	51	0.71831	69	3
+cell2cellpathway	cell to cell adhesion signaling	0.035058	8	6	0.75	12	1
+cxcr4_pathway	CXCR4-mediated signaling events	0.160991	88	55	0.625	59	1
+ecadherin_keratinocyte_pathway	E-cadherin signaling in keratinocytes	3.80064e-05	21	19	0.904762	22	3
+ecadherin_nascentaj_pathway	E-cadherin signaling in the nascent adherens junction	0.000185581	36	31	0.861111	37	3
+ecmpathway	erk and pi-3 kinase are necessary for collagen binding in corneal epithelia	0.114818	31	26	0.83871	41	1
+edg1pathway	phospholipids as signalling intermediaries	0.0577484	33	23	0.69697	20	1
+epha2_fwdpathway	EPHA2 forward signaling	0.0321838	18	11	0.611111	11	1
+ephbfwdpathway	EPHB forward signaling	0.00027122	39	32	0.820513	42	3
+ephrinbrevpathway	Ephrin B reverse signaling	0.00888146	24	15	0.625	3	1
+erbb1_internalization_pathway	Internalization of ErbB1	0.10155	38	27	0.710526	36	1
+fak_pathway	Signaling events mediated by focal adhesion kinase	0.0101589	62	42	0.677419	51	2
+fanconi_pathway	Fanconi anemia pathway	8.463e-06	46	33	0.717391	43	4
+fgf_pathway	FGF signaling pathway	0.00764044	56	42	0.75	44	2
+hdac_classi_pathway	Signaling events mediated by HDAC Class I	0.2281	56	45	0.803571	87	1
+ilk_pathway	Integrin-linked kinase signaling	0.109534	46	36	0.782609	39	1
+integrin_a4b1_pathway	Alpha4 beta1 integrin signaling events	0.0605471	33	21	0.636364	21	1
+integrinpathway	integrin signaling pathway	0.143326	33	26	0.787879	52	1
+lysophospholipid_pathway	LPA receptor mediated events	0.148411	64	38	0.59375	54	1
+met_pathway	Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)	0.000209736	82	63	0.768293	97	4
+nectin_pathway	Nectin adhesion pathway	6.36083e-05	30	25	0.833333	26	3
+netrin_pathway	Netrin-mediated signaling events	0.0464703	33	22	0.666667	16	1
+p53regulationpathway	p53 pathway	0.0235099	58	43	0.741379	8	1
+pdgfrbpathway	PDGFR-beta signaling pathway	0.50055	126	96	0.761905	233	1
+pi3kplctrkpathway	Trk receptor signaling mediated by PI3K and PLC-gamma	0.114818	36	28	0.777778	41	1
+ps1pathway	Presenilin action in Notch and Wnt signaling	0.035058	46	28	0.608696	12	1
+rac1_pathway	RAC1 signaling pathway	0.173386	54	40	0.740741	64	1
+ret_pathway	Signaling events regulated by Ret tyrosine kinase	0.00385165	39	26	0.666667	31	2
+sam68pathway	regulation of splicing through sam68	0.000311268	10	8	0.8	9	2
+smad2_3nuclearpathway	Regulation of nuclear SMAD2/3 signaling	0.0853667	78	56	0.717949	30	1
+sprypathway	sprouty regulation of tyrosine kinase signals	0.0549413	20	13	0.65	19	1
+syndecan_2_pathway	Syndecan-2-mediated signaling events	0.00102346	41	30	0.731707	16	2
+telomerasepathway	Regulation of Telomerase	0.00142854	68	54	0.794118	74	3
+ucalpainpathway	ucalpain and friends in cell spread	0.0549413	17	14	0.823529	19	1
+vegfpathway	vegf hypoxia and angiogenesis	0.0853667	30	23	0.766667	30	1
+vegfr1_2_pathway	Signaling events mediated by VEGFR1 and VEGFR2	0.0266398	68	55	0.808824	85	2
