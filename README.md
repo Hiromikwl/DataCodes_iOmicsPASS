@@ -10,3 +10,6 @@ This folder contains the input data and input parameter file used in iOmicsPASS.
 
 ## Application: Colon and Rectum Adenocarcinoma (TCGA)
 This folder contains the input data and input parameter file used in iOmicsPASS. Also, it contains the direct output files ("Output" folder), as well as the R codes ("Rcodes" folder) used to generate the heatmaps and plots in the manuscript.
+
+## Network Data
+This folder contains two types of biological network files, (1)Transcription factor regulatory network and (2)Protein-protein interaction network, that were manually curated from various expermentally validated sources (see manuscript for more details). The two files were used as input in iOmicsPASS to link the genes with protein level information in the application of breast and colorectal cancer - TCGA. The folder also contain (3)a pathway module information that is curated from consensusPath database and Gene Ontology (GO) and used as input in iOmicsPASS for subnetwork enrichment module.
