@@ -3,7 +3,7 @@
 ## R-code for Performance Plot ## 
 #################################
 
-CVdat = read.delim("../Output/CVerrors.txt",as.is=T)
+CVdat = read.delim("../Output/CVerrors.txt",as.is=T,check.names = F)
 
 minError = min(CVdat$CVerror)
 minThres = CVdat$Threshold[which(CVdat$CVerror==minError)][1]
@@ -11,9 +11,10 @@ genesurv = CVdat$EdgesSelected[which(CVdat$CVerror==minError)][1]
 
 cid = grep("CVerror_", colnames(CVdat))
 ll=gsub("CVerror_","",colnames(CVdat)[cid])
-cc = 2:(length(cid)+1)
 legend_lab = c("Overall")
 for(i in 1:length(ll)) legend_lab = c(legend_lab, ll[i])
+cc = c("black","blue","maroon","green","purple")
+
 
 sd = sd(CVdat$CVerror[-nrow(CVdat)])
 within = CVdat$Threshold[which(abs(CVdat$CVerror)< (minError+sd))]
@@ -26,8 +27,8 @@ par(mar=c(4,4,7,2),mai=c(1,1,1,0.5))
 plot(CVdat$Threshold,CVdat$CVerror,ylim=c(0,1),type="l",col=1,lwd=2.5, cex.axis=0.8,ylab="Mean misclassification error", xlab="Threshold")
 mtext("Edges selected",side=3,line=3)
 axis(side = 3,at=CVdat$Threshold, lab=CVdat$EdgesSelected,las=2,srt= 45,cex.axis=0.8)
-for(i in 1:length(cid)) lines(CVdat$Threshold, CVdat[,cid[i]], col=cc[i],lty=1)
-legend("topleft",legend_lab, col=c(1,cc),lty=1 ,lwd=c(2,rep(1,length(ll))),cex=0.8)
+for(i in 1:length(cid)) lines(CVdat$Threshold, CVdat[,cid[i]], col=cc[i+1],lty=1,lwd=2)
+legend("topleft",legend_lab, col=cc,lty=1 ,lwd=c(2,rep(1,length(ll))),cex=0.8)
 
 points(minThres,CVdat$CVerror[match(minThres,CVdat$Threshold)], pch=4,lwd=2,col=2)
 points(xpt,ypt, pch=4,lwd=2,col=2)
@@ -36,3 +37,5 @@ if(xpt!=minThres) text(xpt, ypt,pos=1, offset=1,lab=paste0( "Threshold = ",paste
 abline(h=(minError+sd),lty=2,col="grey40")
 text(-0.15,(minError+sd)+0.02, pos =4, font =2,lab="1 SD above minimum threshold",cex=0.7,col="grey40")
 dev.off()
+
+########################################## end #########################################

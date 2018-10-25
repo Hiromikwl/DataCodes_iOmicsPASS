@@ -203,7 +203,7 @@ legend(-100,65, uniqS, xpd = TRUE, horiz = TRUE, inset = c(0, 0),
 text(PC1[match(oddS,colnames(Xsurv))],PC3[match(oddS,colnames(Xsurv))], labels =sampleProb$PredictedClass[match(oddS,colnames(Xsurv))],cex=0.5)
 dev.off()
 
-
+########################################## end #########################################
 
 
 
