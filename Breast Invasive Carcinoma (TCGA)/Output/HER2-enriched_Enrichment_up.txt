@@ -1,166 +1,125 @@
 Pathway	PathAnnotation	HypergeoPval	NumGene_inPathway	NumGenes_inbg	PropPathway	NumEdgesformed_inbg	Enriched_Edgesize
-GO:0000165	MAPK cascade	0.200498	250	199	0.796	922	1
-GO:0000186	activation of MAPKK activity	0.203217	229	190	0.829694	936	1
-GO:0001934	positive regulation of protein phosphorylation	0.0232091	123	101	0.821138	97	1
-GO:0006351	transcription, DNA-templated	0.0105006	1806	1279	0.708195	5544	5
-GO:0006367	transcription initiation from RNA polymerase II promoter	0.270133	250	227	0.908	1296	1
-GO:0006468	protein phosphorylation	1.34361e-05	453	366	0.807947	592	4
-GO:0007165	signal transduction	1.59934e-06	982	687	0.699593	1495	6
-GO:0007166	cell surface receptor signaling pathway	0.0168021	277	146	0.527076	70	1
-GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	0.0096352	93	66	0.709677	40	1
-GO:0007173	epidermal growth factor receptor signaling pathway	4.72237e-08	321	268	0.834891	1410	7
-GO:0007264	small GTPase mediated signal transduction	0.0188202	639	520	0.813772	2333	3
-GO:0007265	Ras protein signal transduction	0.0252775	241	204	0.846473	1017	2
-GO:0007411	axon guidance	1.23561e-07	533	407	0.763602	1626	7
-GO:0007596	blood coagulation	0.029646	486	393	0.808642	1109	2
-GO:0008283	cell proliferation	1.07989e-07	352	284	0.806818	468	5
-GO:0008286	insulin receptor signaling pathway	0.257385	301	252	0.837209	1225	1
-GO:0008543	fibroblast growth factor receptor signaling pathway	0.0351282	288	237	0.822917	1217	2
-GO:0010467	gene expression	0.217922	854	781	0.91452	9931	4
-GO:0014065	phosphatidylinositol 3-kinase signaling	0.00675418	30	22	0.733333	28	1
-GO:0018108	peptidyl-tyrosine phosphorylation	0.0217889	119	100	0.840336	91	1
-GO:0030335	positive regulation of cell migration	0.0276933	148	127	0.858108	116	1
-GO:0032886	regulation of microtubule-based process	0.00169273	13	13	1	7	1
-GO:0038095	Fc-epsilon receptor signaling pathway	0.0515175	314	258	0.821656	1506	2
-GO:0043406	positive regulation of MAP kinase activity	0.00217586	50	38	0.76	9	1
-GO:0045087	innate immune response	1.81641e-09	849	641	0.755006	3965	11
-GO:0045765	regulation of angiogenesis	0.00169273	27	22	0.814815	7	1
-GO:0045944	positive regulation of transcription from RNA polymerase II promoter	0.669261	951	702	0.73817	4509	1
-GO:0045945	positive regulation of transcription from RNA polymerase III promoter	0.00120938	11	10	0.909091	5	1
-GO:0046777	protein autophosphorylation	0.000393749	164	137	0.835366	119	2
-GO:0048010	vascular endothelial growth factor receptor signaling pathway	0.00411356	280	241	0.860714	1330	3
-GO:0048011	neurotrophin TRK receptor signaling pathway	0.00852881	394	333	0.845178	1734	3
-GO:0048015	phosphatidylinositol-mediated signaling	0.000640352	120	96	0.8	152	2
-GO:0050679	positive regulation of epithelial cell proliferation	0.000967618	60	40	0.666667	4	1
-GO:0050900	leukocyte migration	0.0361347	114	94	0.824561	152	1
-KEGG:01100	Metabolic pathways	0.249925	1130	859	0.760177	1184	1
-KEGG:04012	ErbB signaling pathway	0.0658004	87	75	0.862069	281	1
-KEGG:04020	Calcium signaling pathway	0.0120298	185	122	0.659459	50	1
-KEGG:04066	HIF-1 signaling pathway	0.0546384	103	92	0.893204	232	1
-KEGG:04510	Focal adhesion	0.009276	207	176	0.850242	597	2
-KEGG:04520	Adherens junction	0.000762537	73	64	0.876712	166	2
-KEGG:05200	Pathways in cancer	1.66608e-08	401	329	0.820449	1900	8
-KEGG:05205	Proteoglycans in cancer	0.000429544	204	175	0.857843	602	3
-KEGG:05212	Pancreatic cancer	0.00140274	70	67	0.957143	226	2
-KEGG:05213	Endometrial cancer	0.000393749	52	47	0.903846	119	2
-KEGG:05215	Prostate cancer	3.09752e-14	89	77	0.865169	356	8
-KEGG:05219	Bladder cancer	0.000156678	45	41	0.911111	75	2
-KEGG:05223	Non-small cell lung cancer	0.000462302	56	51	0.910714	129	2
-KEGG:05230	Central carbon metabolism in cancer	0.000169473	67	59	0.880597	78	2
-PA162356267	EGFR Inhibitor Pathway, Pharmacodynamics	0.0477405	67	59	0.880597	202	1
-Pathway_Alpha6Beta4Integrin	Alpha6Beta4Integrin	3.76645e-05	71	66	0.929577	263	3
-Pathway_AndrogenReceptor	AndrogenReceptor	0.199135	143	134	0.937063	915	1
-Pathway_EGFR1	EGFR1	1.88738e-15	453	419	0.924945	2751	14
-Pathway_IL6	IL6	0.000140804	74	71	0.959459	411	3
-Pathway_Leptin	Leptin	0.0596659	62	58	0.935484	254	1
-Pathway_Oncostatin_M	Oncostatin_M	0.0424189	38	37	0.973684	179	1
-Pathway_Prolactin	Prolactin	0.00264179	70	63	0.9	312	2
-Pathway_TGF_beta_Receptor	TGF_beta_Receptor	0.220107	174	168	0.965517	1024	1
-R-HSA-109582	Hemostasis	0.0354962	493	402	0.815416	1224	2
-R-HSA-112399	IRS-mediated signalling	0.116714	235	190	0.808511	512	1
-R-HSA-112412	SOS-mediated signalling	0.0628516	185	144	0.778378	268	1
-R-HSA-1168372	Downstream signaling events of B Cell Receptor (BCR)	0.00193268	120	97	0.808333	266	2
-R-HSA-1227986	Signaling by ERBB2	7.12763e-14	277	221	0.797834	673	9
-R-HSA-1236394	Signaling by ERBB4	0.00978695	263	211	0.802281	614	2
-R-HSA-1250196	SHC1 events in ERBB2 signaling	0.0628516	185	144	0.778378	268	1
-R-HSA-1250342	PI3K events in ERBB4 signaling	0.000455205	98	78	0.795918	128	2
-R-HSA-1250347	SHC1 events in ERBB4 signaling	0.0628516	185	144	0.778378	268	1
-R-HSA-1251932	PLCG1 events in ERBB2 signaling	1.57053e-05	37	27	0.72973	24	2
-R-HSA-1257604	PIP3 activates AKT signaling	0.000455205	98	78	0.795918	128	2
-R-HSA-1266738	Developmental Biology	1.09434e-08	586	445	0.759386	1799	8
-R-HSA-1280215	Cytokine Signaling in Immune system	0.256841	376	286	0.760638	1222	1
-R-HSA-1280218	Adaptive Immune System	7.96891e-05	612	437	0.714052	1834	5
-R-HSA-1306955	GRB7 events in ERBB2 signaling	1.71261e-07	5	5	1	3	2
-R-HSA-1433557	Signaling by SCF-KIT	3.2044e-10	264	216	0.818182	680	7
-R-HSA-162582	Signal Transduction	9.32349e-11	2334	1317	0.564267	8926	16
-R-HSA-1643685	Disease	3.99157e-07	483	398	0.824017	1937	7
-R-HSA-166520	Signalling by NGF	0.000179747	386	317	0.821244	1159	4
-R-HSA-167044	Signalling to RAS	0.0673844	194	153	0.78866	288	1
-R-HSA-168249	Innate Immune System	1.28608e-08	709	509	0.717913	2670	9
-R-HSA-168256	Immune System	3.36446e-08	1174	834	0.710392	5270	11
-R-HSA-169893	Prolonged ERK activation events	0.0709952	192	151	0.786458	304	1
-R-HSA-170968	Frs2-mediated activation	0.0678365	190	149	0.784211	290	1
-R-HSA-170984	ARMS-mediated activation	0.0653473	189	148	0.783069	279	1
-R-HSA-177929	Signaling by EGFR	0.000741514	292	235	0.804795	727	3
-R-HSA-179812	GRB2 events in EGFR signaling	0.0628516	185	144	0.778378	268	1
-R-HSA-180292	GAB1 signalosome	0.00065717	102	82	0.803922	154	2
-R-HSA-180336	SHC1 events in EGFR signaling	0.0628516	185	144	0.778378	268	1
-R-HSA-186763	Downstream signal transduction	4.53239e-10	279	225	0.806452	715	7
-R-HSA-186797	Signaling by PDGF	5.6923e-10	301	240	0.797342	739	7
-R-HSA-187037	NGF signalling via TRKA from the plasma membrane	3.57057e-05	310	251	0.809677	761	4
-R-HSA-187687	Signalling to ERKs	0.0754896	201	159	0.791045	324	1
-R-HSA-187706	Signalling to p38 via RIT and RIN	0.0628516	189	147	0.777778	268	1
-R-HSA-190236	Signaling by FGFR	0.0092167	274	217	0.791971	595	2
-R-HSA-194138	Signaling by VEGF	0.0153697	274	228	0.832117	779	2
-R-HSA-1963640	GRB2 events in ERBB2 signaling	0.0628516	185	144	0.778378	268	1
-R-HSA-1963642	PI3K events in ERBB2 signaling	0.000455205	98	78	0.795918	128	2
-R-HSA-198203	PI3K/AKT activation	0.000462302	101	81	0.80198	129	2
-R-HSA-202733	Cell surface interactions at the vascular wall	0.0321575	101	81	0.80198	135	1
-R-HSA-210993	Tie2 Signaling	0.00651373	18	16	0.888889	27	1
-R-HSA-212436	Generic Transcription Pathway	0.187357	541	389	0.719039	855	1
-R-HSA-2172127	DAP12 interactions	0.0103414	298	227	0.761745	632	2
-R-HSA-2219528	PI3K/AKT Signaling in Cancer	0.000324586	85	67	0.788235	108	2
-R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	0.0153728	61	43	0.704918	64	1
-R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	0.120138	239	193	0.807531	528	1
-R-HSA-2424491	DAP12 signaling	0.010186	282	225	0.797872	627	2
-R-HSA-2428924	IGF1R signaling cascade	0.120138	239	193	0.807531	528	1
-R-HSA-2428928	IRS-related events triggered by IGF1R	0.120138	239	193	0.807531	528	1
-R-HSA-2454202	Fc epsilon receptor (FCERI) signaling	0.0201882	330	242	0.733333	901	2
-R-HSA-2586552	Signaling by Leptin	0.0766099	193	152	0.787565	329	1
-R-HSA-2730905	Role of LAT2/NTAL/LAB on calcium mobilization	0.000762537	147	87	0.591837	166	2
-R-HSA-2871796	FCERI mediated MAPK activation	0.0961115	248	167	0.673387	417	1
-R-HSA-373755	Semaphorin interactions	0.000182764	67	59	0.880597	81	2
-R-HSA-375165	NCAM signaling for neurite out-growth	0.00225865	223	164	0.735426	288	2
-R-HSA-422475	Axon guidance	1.56227e-10	459	351	0.764706	1042	8
-R-HSA-4420097	VEGFA-VEGFR2 Pathway	0.0150737	266	221	0.830827	771	2
-R-HSA-449147	Signaling by Interleukins	0.194444	270	217	0.803704	891	1
-R-HSA-451927	Interleukin-2 signaling	0.0886249	202	160	0.792079	383	1
-R-HSA-512988	Interleukin-3, 5 and GM-CSF signaling	0.123763	211	168	0.796209	545	1
-R-HSA-5218921	VEGFR2 mediated cell proliferation	0.0714456	198	157	0.792929	306	1
-R-HSA-5654687	Downstream signaling of activated FGFR1	0.00834794	267	213	0.797753	565	2
-R-HSA-5654689	PI-3K cascade:FGFR1	0.000455205	98	78	0.795918	128	2
-R-HSA-5654693	FRS-mediated FGFR1 signaling	0.0667059	186	145	0.77957	285	1
-R-HSA-5654695	PI-3K cascade:FGFR2	0.000455205	98	78	0.795918	128	2
-R-HSA-5654696	Downstream signaling of activated FGFR2	0.00834794	267	213	0.797753	565	2
-R-HSA-5654700	FRS-mediated FGFR2 signaling	0.0667059	186	145	0.77957	285	1
-R-HSA-5654706	FRS-mediated FGFR3 signaling	0.0667059	186	145	0.77957	285	1
-R-HSA-5654708	Downstream signaling of activated FGFR3	0.00834794	267	213	0.797753	565	2
-R-HSA-5654710	PI-3K cascade:FGFR3	0.000455205	98	78	0.795918	128	2
-R-HSA-5654712	FRS-mediated FGFR4 signaling	0.0667059	186	145	0.77957	285	1
-R-HSA-5654716	Downstream signaling of activated FGFR4	0.00834794	267	213	0.797753	565	2
-R-HSA-5654720	PI-3K cascade:FGFR4	0.000455205	98	78	0.795918	128	2
-R-HSA-5654736	Signaling by FGFR1	0.0092167	271	217	0.800738	595	2
-R-HSA-5654738	Signaling by FGFR2	0.0092167	273	216	0.791209	595	2
-R-HSA-5654741	Signaling by FGFR3	0.0092167	270	216	0.8	595	2
-R-HSA-5654743	Signaling by FGFR4	0.0092167	270	216	0.8	595	2
-R-HSA-5663202	Diseases of signal transduction	7.32322e-06	180	152	0.844444	507	4
-R-HSA-5673001	RAF/MAP kinase cascade	0.0628516	185	144	0.778378	268	1
-R-HSA-5683057	MAPK family signaling cascades	0.0879614	225	176	0.782222	380	1
-R-HSA-5684996	MAPK1/MAPK3 signaling	0.0700938	191	149	0.780105	300	1
-R-HSA-74160	Gene Expression	0.901339	1214	972	0.800659	9298	1
-R-HSA-74751	Insulin receptor signalling cascade	0.122485	238	192	0.806723	539	1
-R-HSA-74752	Signaling by Insulin receptor	0.133707	262	212	0.80916	592	1
-R-HSA-881907	Gastrin-CREB signalling pathway via PKC and MAPK	0.00480037	382	236	0.617801	424	2
-R-HSA-912526	Interleukin receptor SHC signaling	0.0795164	195	153	0.784615	342	1
-R-HSA-983705	Signaling by the B Cell Receptor (BCR)	0.00420449	170	127	0.747059	396	2
-WP138	Androgen receptor signaling pathway	0.119711	89	82	0.921348	526	1
-WP2005	miR-targeted genes in muscle cell - TarBase	0.0932561	394	313	0.794416	404	1
-WP2034	Leptin signaling pathway	0.0810778	76	74	0.973684	349	1
-WP2261	Signaling Pathways in Glioblastoma	4.34591e-05	83	79	0.951807	276	3
-WP2377	Integrated Pancreatic Cancer Pathway	4.50291e-05	170	154	0.905882	808	4
-WP2828	Bladder Cancer	7.22524e-05	31	30	0.967742	51	2
-WP2870	Extracellular vesicle-mediated signaling in recipient cells	0.00699458	30	26	0.866667	29	1
-WP306	Focal Adhesion	0.000277305	190	172	0.905263	518	3
-WP3303	Rac1-Pak1-p38-MMP-2 pathway	3.99423e-07	66	63	0.954545	243	4
-WP437	EGF-EGFR Signaling Pathway	2.13231e-06	162	151	0.932099	860	5
-WP673	ErbB Signaling Pathway	0.000348977	55	48	0.872727	112	2
-WP710	DNA Damage Response (only ATM dependent)	0.00264179	110	95	0.863636	312	2
-a6b1_a6b4_integrin_pathway	a6b1 and a6b4 Integrin signaling	0.0239185	45	42	0.933333	100	1
-ar_nongenomic_pathway	Nongenotropic Androgen signaling	0.0127471	31	29	0.935484	53	1
-ar_pathway	Coregulation of Androgen receptor activity	0.0281642	61	57	0.934426	118	1
-ephbfwdpathway	EPHB forward signaling	0.0179917	39	37	0.948718	75	1
-erbb_network_pathway	ErbB receptor signaling network	8.55909e-07	15	12	0.8	6	2
-her2pathway	role of erbb2 in signal transduction and oncology	0.0203666	28	26	0.928571	85	1
-myc_represspathway	Validated targets of C-MYC transcriptional repression	0.0384669	74	62	0.837838	162	1
-smad2_3nuclearpathway	Regulation of nuclear SMAD2/3 signaling	0.108096	78	71	0.910256	472	1
-tffpathway	trefoil factors initiate mucosal healing	0.0179917	37	33	0.891892	75	1
+GO:0000165	MAPK cascade	0.091847	250	194	0.776	922	1
+GO:0000186	activation of MAPKK activity	0.0931784	229	187	0.816594	936	1
+GO:0006468	protein phosphorylation	3.08043e-05	453	359	0.792494	590	3
+GO:0007165	signal transduction	0.144233	982	684	0.696538	1488	1
+GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	7.9511e-06	93	66	0.709677	40	2
+GO:0007173	epidermal growth factor receptor signaling pathway	0.000399182	321	264	0.82243	1409	3
+GO:0007264	small GTPase mediated signal transduction	0.217093	639	516	0.807512	2332	1
+GO:0007265	Ras protein signal transduction	0.100751	241	199	0.825726	1016	1
+GO:0007411	axon guidance	0.156567	533	403	0.756098	1626	1
+GO:0007507	heart development	0.00706184	156	120	0.769231	68	1
+GO:0008286	insulin receptor signaling pathway	0.120163	301	248	0.82392	1224	1
+GO:0008543	fibroblast growth factor receptor signaling pathway	0.119423	288	233	0.809028	1216	1
+GO:0014065	phosphatidylinositol 3-kinase signaling	3.85606e-06	30	22	0.733333	28	2
+GO:0032886	regulation of microtubule-based process	0.000729131	13	13	1	7	1
+GO:0038095	Fc-epsilon receptor signaling pathway	0.145672	314	251	0.799363	1504	1
+GO:0042060	wound healing	0.00166585	71	60	0.84507	16	1
+GO:0043547	positive regulation of GTPase activity	0.0245117	472	357	0.756356	238	1
+GO:0045087	innate immune response	0.000635239	849	631	0.743227	3952	4
+GO:0046777	protein autophosphorylation	0.0123274	164	136	0.829268	119	1
+GO:0048010	vascular endothelial growth factor receptor signaling pathway	0.129903	280	236	0.842857	1330	1
+GO:0048011	neurotrophin TRK receptor signaling pathway	0.165927	394	327	0.829949	1732	1
+GO:0048015	phosphatidylinositol-mediated signaling	0.0156178	120	94	0.783333	151	1
+GO:0048205	COPI coating of Golgi vesicle	0.00447105	13	13	1	43	1
+KEGG:04012	ErbB signaling pathway	0.0288795	87	75	0.862069	281	1
+KEGG:04020	Calcium signaling pathway	0.00519711	185	121	0.654054	50	1
+KEGG:05200	Pathways in cancer	0.180044	401	327	0.815461	1894	1
+KEGG:05205	Proteoglycans in cancer	0.0608107	204	173	0.848039	601	1
+KEGG:05215	Prostate cancer	0.0363531	89	76	0.853933	355	1
+PA162356267	EGFR Inhibitor Pathway, Pharmacodynamics	0.0208407	67	59	0.880597	202	1
+Pathway_EGFR1	EGFR1	6.36816e-09	453	418	0.922737	2746	7
+Pathway_IL6	IL6	0.0418727	74	71	0.959459	410	1
+Pathway_Oncostatin_M	Oncostatin_M	0.0182837	38	37	0.973684	177	1
+R-HSA-112399	IRS-mediated signalling	0.0520305	235	186	0.791489	512	1
+R-HSA-112412	SOS-mediated signalling	0.0275609	185	141	0.762162	268	1
+R-HSA-1168372	Downstream signaling events of B Cell Receptor (BCR)	0.0271549	120	95	0.791667	264	1
+R-HSA-1227986	Signaling by ERBB2	4.53044e-05	277	217	0.783394	672	3
+R-HSA-1236394	Signaling by ERBB4	0.0619887	263	207	0.787072	613	1
+R-HSA-1250196	SHC1 events in ERBB2 signaling	0.0275609	185	141	0.762162	268	1
+R-HSA-1250342	PI3K events in ERBB4 signaling	0.013151	98	76	0.77551	127	1
+R-HSA-1250347	SHC1 events in ERBB4 signaling	0.0275609	185	141	0.762162	268	1
+R-HSA-1257604	PIP3 activates AKT signaling	0.013151	98	76	0.77551	127	1
+R-HSA-1266738	Developmental Biology	0.171618	586	438	0.74744	1797	1
+R-HSA-1280215	Cytokine Signaling in Immune system	0.119886	376	283	0.75266	1221	1
+R-HSA-1280218	Adaptive Immune System	0.174581	612	430	0.702614	1831	1
+R-HSA-1306955	GRB7 events in ERBB2 signaling	9.3936e-13	5	5	1	3	3
+R-HSA-1358803	Downregulation of ERBB2:ERBB3 signaling	0.000937362	13	13	1	9	1
+R-HSA-1433557	Signaling by SCF-KIT	4.6716e-05	264	212	0.80303	679	3
+R-HSA-162582	Signal Transduction	0.0624511	2334	1302	0.557841	8915	3
+R-HSA-1643685	Disease	0.183581	483	397	0.821946	1935	1
+R-HSA-166520	Signalling by NGF	0.113953	386	312	0.80829	1157	1
+R-HSA-167044	Signalling to RAS	0.0295888	194	149	0.768041	288	1
+R-HSA-168249	Innate Immune System	0.0308508	709	499	0.703808	2666	2
+R-HSA-168256	Immune System	0.102785	1174	822	0.70017	5263	2
+R-HSA-169893	Prolonged ERK activation events	0.0312082	192	148	0.770833	304	1
+R-HSA-170968	Frs2-mediated activation	0.0297913	190	146	0.768421	290	1
+R-HSA-170984	ARMS-mediated activation	0.0286767	189	145	0.767196	279	1
+R-HSA-177929	Signaling by EGFR	0.0730133	292	231	0.791096	726	1
+R-HSA-179812	GRB2 events in EGFR signaling	0.0275609	185	141	0.762162	268	1
+R-HSA-180292	GAB1 signalosome	0.0158231	102	80	0.784314	153	1
+R-HSA-180336	SHC1 events in EGFR signaling	0.0275609	185	141	0.762162	268	1
+R-HSA-186763	Downstream signal transduction	5.42084e-05	279	221	0.792115	714	3
+R-HSA-186797	Signaling by PDGF	5.97764e-05	301	236	0.784053	738	3
+R-HSA-187037	NGF signalling via TRKA from the plasma membrane	0.0763065	310	246	0.793548	760	1
+R-HSA-187687	Signalling to ERKs	0.0332289	201	155	0.771144	324	1
+R-HSA-187706	Signalling to p38 via RIT and RIN	0.0275609	189	144	0.761905	268	1
+R-HSA-190236	Signaling by FGFR	0.0601229	274	213	0.777372	594	1
+R-HSA-194138	Signaling by VEGF	0.078142	274	223	0.813869	779	1
+R-HSA-1963640	GRB2 events in ERBB2 signaling	0.0275609	185	141	0.762162	268	1
+R-HSA-1963642	PI3K events in ERBB2 signaling	0.013151	98	76	0.77551	127	1
+R-HSA-198203	PI3K/AKT activation	0.0132539	101	79	0.782178	128	1
+R-HSA-2172127	DAP12 interactions	0.063753	298	223	0.748322	631	1
+R-HSA-2219528	PI3K/AKT Signaling in Cancer	0.0110908	85	66	0.776471	107	1
+R-HSA-2219530	Constitutive Signaling by Aberrant PI3K in Cancer	0.00664774	61	42	0.688525	64	1
+R-HSA-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	0.0536146	239	189	0.790795	528	1
+R-HSA-2424491	DAP12 signaling	0.0632632	282	221	0.783688	626	1
+R-HSA-2428924	IGF1R signaling cascade	0.0536146	239	189	0.790795	528	1
+R-HSA-2428928	IRS-related events triggered by IGF1R	0.0536146	239	189	0.790795	528	1
+R-HSA-2454202	Fc epsilon receptor (FCERI) signaling	0.0896557	330	235	0.712121	899	1
+R-HSA-2586552	Signaling by Leptin	0.0337334	193	149	0.772021	329	1
+R-HSA-2730905	Role of LAT2/NTAL/LAB on calcium mobilization	0.0170542	147	82	0.557823	165	1
+R-HSA-2871796	FCERI mediated MAPK activation	0.0425731	248	161	0.649194	417	1
+R-HSA-375165	NCAM signaling for neurite out-growth	0.0295888	223	161	0.721973	288	1
+R-HSA-422475	Axon guidance	0.103199	459	347	0.755991	1042	1
+R-HSA-4420097	VEGFA-VEGFR2 Pathway	0.0773696	266	216	0.81203	771	1
+R-HSA-449147	Signaling by Interleukins	0.0887969	270	214	0.792593	890	1
+R-HSA-451927	Interleukin-2 signaling	0.0390665	202	157	0.777228	382	1
+R-HSA-512988	Interleukin-3, 5 and GM-CSF signaling	0.055295	211	165	0.781991	545	1
+R-HSA-5218921	VEGFR2 mediated cell proliferation	0.0314104	198	154	0.777778	306	1
+R-HSA-5654687	Downstream signaling of activated FGFR1	0.0571698	267	209	0.782772	564	1
+R-HSA-5654689	PI-3K cascade:FGFR1	0.013151	98	76	0.77551	127	1
+R-HSA-5654693	FRS-mediated FGFR1 signaling	0.0292848	186	142	0.763441	285	1
+R-HSA-5654695	PI-3K cascade:FGFR2	0.013151	98	76	0.77551	127	1
+R-HSA-5654696	Downstream signaling of activated FGFR2	0.0571698	267	209	0.782772	564	1
+R-HSA-5654700	FRS-mediated FGFR2 signaling	0.0292848	186	142	0.763441	285	1
+R-HSA-5654706	FRS-mediated FGFR3 signaling	0.0292848	186	142	0.763441	285	1
+R-HSA-5654708	Downstream signaling of activated FGFR3	0.0571698	267	209	0.782772	564	1
+R-HSA-5654710	PI-3K cascade:FGFR3	0.013151	98	76	0.77551	127	1
+R-HSA-5654712	FRS-mediated FGFR4 signaling	0.0292848	186	142	0.763441	285	1
+R-HSA-5654716	Downstream signaling of activated FGFR4	0.0571698	267	209	0.782772	564	1
+R-HSA-5654720	PI-3K cascade:FGFR4	0.013151	98	76	0.77551	127	1
+R-HSA-5654736	Signaling by FGFR1	0.0601229	271	213	0.785978	594	1
+R-HSA-5654738	Signaling by FGFR2	0.0601229	273	212	0.776557	594	1
+R-HSA-5654741	Signaling by FGFR3	0.0601229	270	212	0.785185	594	1
+R-HSA-5654743	Signaling by FGFR4	0.0601229	270	212	0.785185	594	1
+R-HSA-5663202	Diseases of signal transduction	0.0514358	180	151	0.838889	506	1
+R-HSA-5673001	RAF/MAP kinase cascade	0.0275609	185	141	0.762162	268	1
+R-HSA-5683057	MAPK family signaling cascades	0.0387653	225	173	0.768889	379	1
+R-HSA-5684996	MAPK1/MAPK3 signaling	0.0308036	191	146	0.764398	300	1
+R-HSA-74751	Insulin receptor signalling cascade	0.0547023	238	188	0.789916	539	1
+R-HSA-74752	Signaling by Insulin receptor	0.0599263	262	208	0.793893	592	1
+R-HSA-881907	Gastrin-CREB signalling pathway via PKC and MAPK	0.043173	382	233	0.609948	423	1
+R-HSA-912526	Interleukin receptor SHC signaling	0.0350441	195	150	0.769231	342	1
+R-HSA-983705	Signaling by the B Cell Receptor (BCR)	0.0402701	170	120	0.705882	394	1
+WP2005	miR-targeted genes in muscle cell - TarBase	0.000803607	394	311	0.78934	402	2
+WP2261	Signaling Pathways in Glioblastoma	0.000381299	83	79	0.951807	276	2
+WP306	Focal Adhesion	0.0526248	190	170	0.894737	518	1
+WP3303	Rac1-Pak1-p38-MMP-2 pathway	0.0250205	66	61	0.924242	243	1
+WP437	EGF-EGFR Signaling Pathway	0.00357283	162	151	0.932099	859	2
+WP673	ErbB Signaling Pathway	0.0116062	55	48	0.872727	112	1
+WP710	DNA Damage Response (only ATM dependent)	0.0320169	110	95	0.863636	312	1
+a6b1_a6b4_integrin_pathway	a6b1 and a6b4 Integrin signaling	0.0103688	45	42	0.933333	100	1
+erbb2erbb3pathway	ErbB2/ErbB3 signaling events	0.0111939	40	37	0.925	108	1
+erbb_network_pathway	ErbB receptor signaling network	0.000625	15	12	0.8	6	1
+her2pathway	role of erbb2 in signal transduction and oncology	0.00881995	28	26	0.928571	85	1

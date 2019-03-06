@@ -1,464 +1,249 @@
 Pathway	PathAnnotation	HypergeoPval	NumGene_inPathway	NumGenes_inbg	PropPathway	NumEdgesformed_inbg	Enriched_Edgesize
-GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	0.00854848	37	34	0.918919	23	3
-GO:0000082	G1/S transition of mitotic cell cycle	0	153	143	0.934641	1180	129
-GO:0000086	G2/M transition of mitotic cell cycle	1.37527e-06	140	135	0.964286	303	20
-GO:0000122	negative regulation of transcription from RNA polymerase II promoter	1	709	562	0.792666	2731	14
-GO:0000165	MAPK cascade	0.999999	250	199	0.796	922	2
-GO:0000186	activation of MAPKK activity	1	229	190	0.829694	936	2
-GO:0000209	protein polyubiquitination	0.999999	137	125	0.912409	881	2
-GO:0000278	mitotic cell cycle	0	422	393	0.93128	3734	689
-GO:0000281	mitotic cytokinesis	7.37821e-05	25	23	0.92	13	4
-GO:0000398	mRNA splicing, via spliceosome	1	196	187	0.954082	2029	3
-GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.385329	22	21	0.954545	26	1
-GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.0893384	8	8	1	5	1
-GO:0000722	telomere maintenance via recombination	3.01598e-06	27	27	1	101	11
-GO:0000723	telomere maintenance	0.000862664	66	54	0.818182	218	12
-GO:0000731	DNA synthesis involved in DNA repair	0.186076	10	10	1	11	1
-GO:0000733	DNA strand renaturation	0.0010184	9	9	1	3	2
-GO:0000910	cytokinesis	0.00109313	50	46	0.92	25	4
-GO:0001649	osteoblast differentiation	0.11596	103	87	0.84466	64	3
-GO:0001701	in utero embryonic development	0.256918	210	172	0.819048	184	5
-GO:0001833	inner cell mass cell proliferation	0.0546027	14	13	0.928571	3	1
-GO:0002223	stimulatory C-type lectin receptor signaling pathway	1	121	111	0.917355	965	2
-GO:0002230	positive regulation of defense response to virus by host	0.258795	122	76	0.622951	16	1
-GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	0.999992	97	91	0.938144	775	2
-GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	0.999986	75	70	0.933333	742	2
-GO:0006144	purine nucleobase metabolic process	0.186076	37	31	0.837838	11	1
-GO:0006259	DNA metabolic process	0.0049062	23	21	0.913043	6	2
-GO:0006260	DNA replication	0	130	124	0.953846	624	159
-GO:0006268	DNA unwinding involved in DNA replication	0	10	10	1	24	17
-GO:0006270	DNA replication initiation	0	28	26	0.928571	111	48
-GO:0006271	DNA strand elongation involved in DNA replication	0	33	33	1	275	90
-GO:0006275	regulation of DNA replication	0.072133	14	12	0.857143	4	1
-GO:0006281	DNA repair	5.96436e-06	290	268	0.924138	1510	54
-GO:0006283	transcription-coupled nucleotide-excision repair	0.303024	46	45	0.978261	197	5
-GO:0006284	base-excision repair	2.64526e-05	48	47	0.979167	150	12
-GO:0006289	nucleotide-excision repair	0.398324	69	63	0.913043	274	6
-GO:0006297	nucleotide-excision repair, DNA gap filling	0.00550416	17	17	1	61	5
-GO:0006298	mismatch repair	0.0296329	25	24	0.96	63	4
-GO:0006302	double-strand break repair	0.357544	64	62	0.96875	212	5
-GO:0006306	DNA methylation	0.349822	23	22	0.956522	23	1
-GO:0006310	DNA recombination	0.359445	71	59	0.830986	115	3
-GO:0006325	chromatin organization	1	259	204	0.787645	1071	3
-GO:0006334	nucleosome assembly	0.00126899	131	72	0.549618	113	8
-GO:0006338	chromatin remodeling	0.9635	91	81	0.89011	274	2
-GO:0006351	transcription, DNA-templated	1	1806	1279	0.708195	5544	24
-GO:0006355	regulation of transcription, DNA-templated	1	1289	873	0.677269	1753	9
-GO:0006366	transcription from RNA polymerase II promoter	1	543	395	0.72744	1765	2
-GO:0006367	transcription initiation from RNA polymerase II promoter	1	250	227	0.908	1296	1
-GO:0006396	RNA processing	0.516456	75	67	0.893333	93	2
-GO:0006412	translation	1	231	218	0.943723	2623	1
-GO:0006417	regulation of translation	0.407916	58	47	0.810345	28	1
-GO:0006457	protein folding	0.991574	165	141	0.854545	255	1
-GO:0006461	protein complex assembly	0.444434	111	99	0.891892	81	2
-GO:0006521	regulation of cellular amino acid metabolic process	0.999961	51	48	0.941176	682	2
-GO:0006915	apoptotic process	1	600	504	0.84	2115	12
-GO:0006974	cellular response to DNA damage stimulus	0.0999041	191	172	0.900524	337	10
-GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	0.999983	66	62	0.939394	729	2
-GO:0006978	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	0.215983	14	13	0.928571	13	1
-GO:0007049	cell cycle	3.08704e-07	187	169	0.903743	117	13
-GO:0007050	cell cycle arrest	0.983455	141	122	0.865248	219	1
-GO:0007059	chromosome segregation	0.668614	66	63	0.954545	59	1
-GO:0007067	mitotic nuclear division	0	233	214	0.918455	636	93
-GO:0007076	mitotic chromosome condensation	0	12	11	0.916667	19	14
-GO:0007077	mitotic nuclear envelope disassembly	0.0598338	42	40	0.952381	113	5
-GO:0007080	mitotic metaphase plate congression	3.89968e-06	33	32	0.969697	36	7
-GO:0007093	mitotic cell cycle checkpoint	0.32502	30	28	0.933333	21	1
-GO:0007094	mitotic spindle assembly checkpoint	0.00968527	33	32	0.969697	158	8
-GO:0007165	signal transduction	1	982	687	0.699593	1495	2
-GO:0007173	epidermal growth factor receptor signaling pathway	1	321	268	0.834891	1410	2
-GO:0007219	Notch signaling pathway	0.982167	162	128	0.790123	215	1
-GO:0007264	small GTPase mediated signal transduction	0.016966	639	520	0.813772	2333	58
-GO:0007265	Ras protein signal transduction	0.999999	241	204	0.846473	1017	3
-GO:0007275	multicellular organismal development	0.0720776	422	241	0.57109	52	3
-GO:0007283	spermatogenesis	0.115726	368	201	0.546196	100	4
-GO:0007411	axon guidance	1	533	407	0.763602	1626	4
-GO:0007596	blood coagulation	1	486	393	0.808642	1109	1
-GO:0008283	cell proliferation	0	352	284	0.806818	468	45
-GO:0008284	positive regulation of cell proliferation	0.893067	445	316	0.710112	491	6
-GO:0008286	insulin receptor signaling pathway	1	301	252	0.837209	1225	3
-GO:0008380	RNA splicing	1	238	216	0.907563	1961	2
-GO:0008543	fibroblast growth factor receptor signaling pathway	1	288	237	0.822917	1217	2
-GO:0008584	male gonad development	0.349822	82	54	0.658537	23	1
-GO:0009411	response to UV	0.429674	43	41	0.953488	30	1
-GO:0009653	anatomical structure morphogenesis	0.0477071	123	71	0.577236	19	2
-GO:0010032	meiotic chromosome condensation	0.00331152	5	4	0.8	5	2
-GO:0010165	response to X-ray	0.0388737	22	22	1	17	2
-GO:0010467	gene expression	1	854	781	0.91452	9931	22
-GO:0010628	positive regulation of gene expression	0.881898	216	172	0.796296	197	2
-GO:0012501	programmed cell death	1	158	154	0.974684	1099	3
-GO:0015031	protein transport	0.984544	343	288	0.83965	328	2
-GO:0016032	viral process	1	559	530	0.948122	5912	49
-GO:0016446	somatic hypermutation of immunoglobulin genes	0.139064	12	10	0.833333	8	1
-GO:0016567	protein ubiquitination	0.542385	353	285	0.807365	484	9
-GO:0019221	cytokine-mediated signaling pathway	0.842635	260	200	0.769231	451	6
-GO:0019985	translesion synthesis	0.0230746	47	45	0.957447	118	6
-GO:0021766	hippocampus development	0.170698	52	38	0.730769	10	1
-GO:0030154	cell differentiation	0.872897	445	249	0.559551	192	2
-GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	0.0225816	81	79	0.975309	956	27
-GO:0031572	G2 DNA damage checkpoint	0.258795	20	19	0.95	16	1
-GO:0032092	positive regulation of protein binding	0.286031	54	48	0.888889	18	1
-GO:0032147	activation of protein kinase activity	0.0269786	62	55	0.887097	14	2
-GO:0032201	telomere maintenance via semi-conservative replication	2.23662e-06	23	23	1	98	11
-GO:0032355	response to estradiol	0.0664132	100	81	0.81	82	4
-GO:0032467	positive regulation of cytokinesis	7.37821e-05	37	25	0.675676	13	4
-GO:0032508	DNA duplex unwinding	0.00142222	46	44	0.956522	66	6
-GO:0033209	tumor necrosis factor-mediated signaling pathway	0.999993	116	98	0.844828	781	2
-GO:0034605	cellular response to heat	0.972518	102	88	0.862745	292	2
-GO:0034641	cellular nitrogen compound metabolic process	0.999821	187	157	0.839572	708	3
-GO:0038061	NIK/NF-kappaB signaling	0.99999	67	65	0.970149	759	2
-GO:0038095	Fc-epsilon receptor signaling pathway	1	314	258	0.821656	1506	2
-GO:0040029	regulation of gene expression, epigenetic	0.909642	106	82	0.773585	293	3
-GO:0042127	regulation of cell proliferation	0.463011	147	122	0.829932	84	2
-GO:0042276	error-prone translesion synthesis	0.0508158	20	19	0.95	45	3
-GO:0042493	response to drug	0.374744	308	239	0.775974	368	8
-GO:0042590	antigen processing and presentation of exogenous peptide antigen via MHC class I	0.999987	79	74	0.936709	743	2
-GO:0042752	regulation of circadian rhythm	0.508999	49	42	0.857143	38	1
-GO:0042769	DNA damage response, detection of DNA damage	0.0478805	35	35	1	106	5
-GO:0042981	regulation of apoptotic process	1	216	176	0.814815	952	2
-GO:0043065	positive regulation of apoptotic process	0.98986	280	249	0.889286	354	2
-GO:0043066	negative regulation of apoptotic process	1	477	373	0.781971	2015	7
-GO:0043524	negative regulation of neuron apoptotic process	0.69823	126	98	0.777778	64	1
-GO:0043547	positive regulation of GTPase activity	0.160642	472	360	0.762712	240	7
-GO:0044267	cellular protein metabolic process	1	637	538	0.844584	3246	2
-GO:0044281	small molecule metabolic process	1	1450	1164	0.802759	2793	5
-GO:0045087	innate immune response	1	849	641	0.755006	3965	7
-GO:0045190	isotype switching	0.155029	15	14	0.933333	9	1
-GO:0045814	negative regulation of gene expression, epigenetic	0.959274	94	73	0.776596	267	2
-GO:0045892	negative regulation of transcription, DNA-templated	0.999962	478	362	0.757322	1476	10
-GO:0045893	positive regulation of transcription, DNA-templated	0.999642	497	400	0.804829	1921	18
-GO:0045931	positive regulation of mitotic cell cycle	0.272541	27	26	0.962963	17	1
-GO:0045944	positive regulation of transcription from RNA polymerase II promoter	1	951	702	0.73817	4509	15
-GO:0048010	vascular endothelial growth factor receptor signaling pathway	1	280	241	0.860714	1330	2
-GO:0048011	neurotrophin TRK receptor signaling pathway	1	394	333	0.845178	1734	2
-GO:0048146	positive regulation of fibroblast proliferation	0.223478	54	43	0.796296	48	2
-GO:0048511	rhythmic process	0.490267	48	38	0.791667	36	1
-GO:0048565	digestive tract development	0.106225	38	25	0.657895	6	1
-GO:0051056	regulation of small GTPase mediated signal transduction	0.834256	134	114	0.850746	96	1
-GO:0051301	cell division	0	320	292	0.9125	1163	235
-GO:0051436	negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0.993829	66	66	1	821	7
-GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	0.867629	71	69	0.971831	854	12
-GO:0051439	regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0.544564	75	73	0.973333	923	17
-GO:0051488	activation of anaphase-promoting complex activity	6.36923e-06	6	5	0.833333	3	3
-GO:0051726	regulation of cell cycle	0.000649827	114	103	0.903509	102	8
-GO:0051988	regulation of attachment of spindle microtubules to kinetochore	6.19356e-05	7	7	1	5	3
-GO:0055085	transmembrane transport	0.985489	634	356	0.561514	226	1
-GO:0055086	nucleobase-containing small molecule metabolic process	0.418897	78	67	0.858974	29	1
-GO:0060334	regulation of interferon-gamma-mediated signaling pathway	0.32502	16	15	0.9375	21	1
-GO:0070301	cellular response to hydrogen peroxide	0.535815	46	39	0.847826	41	1
-GO:0070534	protein K63-linked ubiquitination	0.440251	35	30	0.857143	31	1
-GO:0070987	error-free translesion synthesis	0.0536373	19	19	1	46	3
-GO:0071353	cellular response to interleukin-4	0.122798	22	18	0.818182	7	1
-GO:0071375	cellular response to peptide hormone stimulus	0.299271	26	21	0.807692	19	1
-GO:0071456	cellular response to hypoxia	0.364488	110	90	0.818182	116	3
-GO:0071479	cellular response to ionizing radiation	0.00854848	28	27	0.964286	23	3
-GO:0071897	DNA biosynthetic process	0.155029	27	25	0.925926	9	1
-GO:0072332	intrinsic apoptotic signaling pathway by p53 class mediator	0.299271	21	18	0.857143	19	1
-GO:0090090	negative regulation of canonical Wnt signaling pathway	0.999994	149	122	0.818792	790	2
-GO:0090263	positive regulation of canonical Wnt signaling pathway	0.999995	130	108	0.830769	794	2
-GO:0090305	nucleic acid phosphodiester bond hydrolysis	0.0120444	80	60	0.75	26	3
-GO:0090399	replicative senescence	0.201169	11	9	0.818182	12	1
-GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	0.600382	48	41	0.854167	49	1
-GO:0097193	intrinsic apoptotic signaling pathway	0.966903	59	54	0.915254	182	1
-GO:0098779	mitophagy in response to mitochondrial depolarization	0.286031	135	95	0.703704	18	1
-GO:1900034	regulation of cellular response to heat	0.902611	69	65	0.942029	210	2
-GO:1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	0.740211	26	25	0.961538	72	1
-KEGG:00230	Purine metabolism	0.885331	175	136	0.777143	199	2
-KEGG:00240	Pyrimidine metabolism	0.96812	106	90	0.849057	184	1
-KEGG:01100	Metabolic pathways	0.999987	1130	859	0.760177	1184	6
-KEGG:03008	Ribosome biogenesis in eukaryotes	0.907257	91	70	0.769231	127	1
-KEGG:03013	RNA transport	0.999987	172	142	0.825581	743	2
-KEGG:03015	mRNA surveillance pathway	0.997601	91	78	0.857143	322	1
-KEGG:03018	RNA degradation	0.983762	77	68	0.883117	220	1
-KEGG:03030	DNA replication	0	36	35	0.972222	290	90
-KEGG:03050	Proteasome	0.999937	44	42	0.954545	654	2
-KEGG:03410	Base excision repair	0.577295	33	33	1	46	1
-KEGG:03420	Nucleotide excision repair	0.24308	47	44	0.93617	180	5
-KEGG:03430	Mismatch repair	3.819e-05	23	21	0.913043	109	10
-KEGG:04010	MAPK signaling pathway	0.999996	275	203	0.738182	663	1
-KEGG:04068	FoxO signaling pathway	0.925871	134	118	0.880597	308	3
-KEGG:04110	Cell cycle	0	124	117	0.943548	853	166
-KEGG:04114	Oocyte meiosis	2.52465e-09	115	91	0.791304	296	24
-KEGG:04115	p53 signaling pathway	4.82202e-05	68	65	0.955882	112	10
-KEGG:04120	Ubiquitin mediated proteolysis	0.972783	137	129	0.941606	463	4
-KEGG:04151	PI3K-Akt signaling pathway	0.999977	347	256	0.737752	943	4
-KEGG:04914	Progesterone-mediated oocyte maturation	0.00151642	89	73	0.820225	202	11
-KEGG:05161	Hepatitis B	0.972417	146	120	0.821918	691	7
-KEGG:05162	Measles	0.997935	134	103	0.768657	330	1
-KEGG:05164	Influenza A	0.982377	175	139	0.794286	411	3
-KEGG:05166	HTLV-I infection	0.20401	259	217	0.837838	926	21
-KEGG:05168	Herpes simplex infection	0.999994	184	148	0.804348	637	1
-KEGG:05169	Epstein-Barr virus infection	1	201	184	0.915423	1225	3
-KEGG:05200	Pathways in cancer	0.999966	401	329	0.820449	1900	15
-KEGG:05203	Viral carcinogenesis	0.613658	206	164	0.796117	795	14
-KEGG:05210	Colorectal cancer	0.579892	62	60	0.967742	162	3
-KEGG:05212	Pancreatic cancer	0.791433	70	67	0.957143	226	3
-KEGG:05214	Glioma	0.931274	65	56	0.861538	143	1
-KEGG:05215	Prostate cancer	0.790331	89	77	0.865169	356	5
-KEGG:05218	Melanoma	0.867616	71	50	0.704225	108	1
-KEGG:05219	Bladder cancer	0.754402	45	41	0.911111	75	1
-KEGG:05220	Chronic myeloid leukemia	0.984038	73	68	0.931507	326	2
-KEGG:05222	Small cell lung cancer	0.783939	89	80	0.898876	223	3
-KEGG:05223	Non-small cell lung cancer	0.910667	56	51	0.910714	129	1
-PWY66-409	superpathway of purine nucleotide salvage	0.622208	57	50	0.877193	52	1
-Pathway_AndrogenReceptor	AndrogenReceptor	1	143	134	0.937063	915	1
-Pathway_EGFR1	EGFR1	1	453	419	0.924945	2751	1
-Pathway_TCR	TCR	0.999999	244	215	0.881148	1014	3
-Pathway_TGF_beta_Receptor	TGF_beta_Receptor	0.999967	174	168	0.965517	1024	5
-Pathway_TNFalpha	TNFalpha	0.989628	234	227	0.970085	1703	20
-R-HSA-109581	Apoptosis	0.997973	112	109	0.973214	331	1
-R-HSA-109582	Hemostasis	1	493	402	0.815416	1224	1
-R-HSA-109606	Intrinsic Pathway for Apoptosis	0.908978	38	37	0.973684	128	1
-R-HSA-109970	Global Genomic NER (GG-NER)	0.122691	35	35	1	141	5
-R-HSA-109977	Repair synthesis for gap-filling by DNA polymerase in TC-NER	0.00589712	15	15	1	62	5
-R-HSA-109979	Gap-filling DNA repair synthesis and ligation in TC-NER	0.00630939	16	16	1	63	5
-R-HSA-110312	Translesion synthesis by REV1	0.0402828	16	16	1	41	3
-R-HSA-110313	Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	0.00480628	37	36	0.972973	84	6
-R-HSA-110314	Recognition of DNA damage by PCNA-containing replication complex	0.0374719	28	28	1	99	5
-R-HSA-110320	Translesion Synthesis by POLH	0.0536373	19	19	1	46	3
-R-HSA-110373	Resolution of AP sites via the multiple-nucleotide patch replacement pathway	0.000112377	22	22	1	79	8
-R-HSA-111448	Activation of NOXA and translocation to mitochondria	0.0893384	4	4	1	5	1
-R-HSA-113501	Inhibition of replication initiation of damaged DNA by RB1/E2F1	0.312266	12	11	0.916667	20	1
-R-HSA-113510	E2F mediated regulation of DNA replication	0.00433151	21	20	0.952381	36	4
-R-HSA-114452	Activation of BH3-only proteins	0.7252	25	24	0.96	69	1
-R-HSA-1266738	Developmental Biology	1	586	445	0.759386	1799	2
-R-HSA-1280218	Adaptive Immune System	1	612	437	0.714052	1834	5
-R-HSA-139915	Activation of PUMA and translocation to mitochondria	0.0893384	4	4	1	5	1
-R-HSA-141405	Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	0.195317	19	18	0.947368	123	4
-R-HSA-141430	Inactivation of APC/C via direct inhibition of the APC/C complex	0.195317	19	18	0.947368	123	4
-R-HSA-1430728	Metabolism	1	1481	1122	0.757596	2008	2
-R-HSA-1538133	G0 and Early G1	0.499721	18	18	1	37	1
-R-HSA-156711	Polo-like kinase mediated events	0.000450724	16	16	1	20	4
-R-HSA-157118	Signaling by NOTCH	0.969292	107	87	0.813084	186	1
-R-HSA-157579	Telomere Maintenance	2.88848e-05	81	49	0.604938	176	13
-R-HSA-15869	Metabolism of nucleotides	0.418897	80	68	0.85	29	1
-R-HSA-162582	Signal Transduction	1	2334	1317	0.564267	8926	91
-R-HSA-162587	HIV Life Cycle	0.564816	142	137	0.964789	659	12
-R-HSA-162599	Late Phase of HIV Life Cycle	0.963458	129	124	0.96124	592	6
-R-HSA-162658	Golgi Cisternae Pericentriolar Stack Reorganization	0.0477071	14	14	1	19	2
-R-HSA-162906	HIV Infection	0.808405	182	176	0.967033	801	12
-R-HSA-162909	Host Interactions of HIV factors	0.843879	87	84	0.965517	250	3
-R-HSA-1640170	Cell Cycle	0	502	432	0.860558	3997	738
-R-HSA-1643685	Disease	0.999997	483	398	0.824017	1937	13
-R-HSA-165054	Rev-mediated nuclear export of HIV RNA	0.429191	32	31	0.96875	129	3
-R-HSA-168249	Innate Immune System	1	709	509	0.717913	2670	3
-R-HSA-168256	Immune System	1	1174	834	0.710392	5270	13
-R-HSA-174048	APC/C:Cdc20 mediated degradation of Cyclin B	0.0131705	22	21	0.954545	104	6
-R-HSA-174113	SCF-beta-TrCP mediated degradation of Emi1	0.0546027	10	10	1	3	1
-R-HSA-174143	APC/C-mediated degradation of cell cycle proteins	1.11022e-16	39	38	0.974359	214	29
-R-HSA-174154	APC/C:Cdc20 mediated degradation of Securin	0.223938	21	20	0.952381	88	3
-R-HSA-174178	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	0.0126032	25	24	0.96	103	6
-R-HSA-174184	Cdc20:Phospho-APC/C mediated degradation of Cyclin A	0.00141169	26	25	0.961538	142	9
-R-HSA-174411	Polymerase switching on the C-strand of the telomere	0.00035671	14	14	1	51	6
-R-HSA-174414	Processive synthesis on the C-strand of the telomere	0.418897	12	12	1	29	1
-R-HSA-174417	Telomere C-strand (Lagging Strand) Synthesis	2.23662e-06	23	23	1	98	11
-R-HSA-174437	Removal of the Flap Intermediate from the C-strand	0.385329	10	10	1	26	1
-R-HSA-176187	Activation of ATR in response to replication stress	0	37	36	0.972973	227	71
-R-HSA-176407	Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	0.469122	18	17	0.944444	85	2
-R-HSA-176408	Regulation of APC/C activators between G1/S and early anaphase	5.40181e-10	34	33	0.970588	189	20
-R-HSA-176409	APC/C:Cdc20 mediated degradation of mitotic proteins	2.37372e-09	29	28	0.965517	165	18
-R-HSA-176412	Phosphorylation of the APC/C	0.4872	18	17	0.944444	88	2
-R-HSA-176417	Phosphorylation of Emi1	2.31434e-10	6	6	1	11	7
-R-HSA-176814	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	1.49877e-11	30	29	0.966667	173	21
-R-HSA-176974	Unwinding of DNA	0	12	12	1	65	35
-R-HSA-177243	Interactions of Rev with host cellular proteins	0.532398	36	35	0.972222	151	3
-R-HSA-179409	APC-Cdc20 mediated degradation of Nek2A	0.0883418	24	23	0.958333	127	5
-R-HSA-179419	APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	0.000405786	27	26	0.962963	145	10
-R-HSA-180786	Extension of Telomeres	1.23164e-05	29	29	1	139	12
-R-HSA-187577	SCF(Skp2)-mediated degradation of p27/p21	0.299271	15	15	1	19	1
-R-HSA-1912408	Pre-NOTCH Transcription and Translation	0.385329	19	15	0.789474	26	1
-R-HSA-1912422	Pre-NOTCH Expression and Processing	0.407916	32	24	0.75	28	1
-R-HSA-194315	Signaling by Rho GTPases	7.38587e-12	404	322	0.79703	1185	60
-R-HSA-194840	Rho GTPase cycle	0.831123	125	102	0.816	95	1
-R-HSA-195258	RHO GTPase Effectors	2.46943e-06	289	230	0.795848	918	39
-R-HSA-212165	Epigenetic regulation of gene expression	0.777888	127	83	0.653543	286	4
-R-HSA-2262752	Cellular responses to stress	0.993954	367	301	0.820163	1559	17
-R-HSA-2467813	Separation of Sister Chromatids	3.45279e-14	119	111	0.932773	482	39
-R-HSA-2500257	Resolution of Sister Chromatid Cohesion	0	101	94	0.930693	385	61
-R-HSA-2514853	Condensation of Prometaphase Chromosomes	0	12	11	0.916667	26	16
-R-HSA-2555396	Mitotic Metaphase and Anaphase	1.52101e-14	131	123	0.938931	517	41
-R-HSA-2559580	Oxidative Stress Induced Senescence	0.416299	121	77	0.636364	177	4
-R-HSA-2559582	Senescence-Associated Secretory Phenotype (SASP)	0.954488	108	65	0.601852	165	1
-R-HSA-2559583	Cellular Senescence	0.112114	181	134	0.740331	523	14
-R-HSA-2559585	Oncogene Induced Senescence	0.642843	30	28	0.933333	55	1
-R-HSA-2559586	DNA Damage/Telomere Stress Induced Senescence	0.223478	27	26	0.962963	48	2
-R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	0.545651	81	78	0.962963	154	3
-R-HSA-2980766	Nuclear Envelope Breakdown	0.0883418	50	49	0.98	127	5
-R-HSA-2980767	Activation of NIMA Kinases NEK9, NEK6, NEK7	0.00893493	7	7	1	8	2
-R-HSA-3247509	Chromatin modifying enzymes	1	253	200	0.790514	1130	1
-R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	0.293646	33	32	0.969697	102	3
-R-HSA-3371556	Cellular response to heat stress	0.997315	98	88	0.897959	316	1
-R-HSA-373755	Semaphorin interactions	0.444434	67	59	0.880597	81	2
-R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	0.923099	73	69	0.945205	137	1
-R-HSA-380287	Centrosome maturation	0.923099	73	69	0.945205	137	1
-R-HSA-382551	Transmembrane transport of small molecules	0.989644	579	331	0.571675	244	1
-R-HSA-392499	Metabolism of proteins	1	687	542	0.788937	3266	2
-R-HSA-422475	Axon guidance	1	459	351	0.764706	1042	2
-R-HSA-453274	Mitotic G2-G2/M phases	0.00719016	117	113	0.965812	283	12
-R-HSA-453276	Regulation of mitotic cell cycle	1.11022e-16	39	38	0.974359	214	29
-R-HSA-453279	Mitotic G1-G1/S phases	0	84	81	0.964286	423	98
-R-HSA-4839726	Chromatin organization	1	253	200	0.790514	1130	1
-R-HSA-5357801	Programmed Cell Death	0.998441	115	112	0.973913	345	1
-R-HSA-5358508	Mismatch Repair	0.209833	15	15	1	46	2
-R-HSA-5358565	Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	0.169538	14	14	1	40	2
-R-HSA-5358606	Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	0.176167	14	14	1	41	2
-R-HSA-5651801	PCNA-Dependent Long Patch Base Excision Repair	5.77985e-05	19	19	1	72	8
-R-HSA-5655862	Translesion synthesis by POLK	0.0402828	17	17	1	41	3
-R-HSA-5656121	Translesion synthesis by POLI	0.045397	17	17	1	43	3
-R-HSA-5656169	Termination of translesion DNA synthesis	0.00255917	30	29	0.966667	74	6
-R-HSA-5663205	Infectious disease	0.937742	249	233	0.935743	951	12
-R-HSA-5663220	RHO GTPases Activate Formins	1.22125e-15	115	108	0.93913	329	34
-R-HSA-68867	Assembly of the pre-replicative complex	0	20	20	1	77	39
-R-HSA-68874	M/G1 Transition	0	35	34	0.971429	161	49
-R-HSA-68875	Mitotic Prophase	0.14461	139	95	0.683453	233	7
-R-HSA-68877	Mitotic Prometaphase	0	110	102	0.927273	470	112
-R-HSA-68882	Mitotic Anaphase	5.4623e-14	130	122	0.938462	513	40
-R-HSA-68886	M Phase	0	258	205	0.794574	1017	164
-R-HSA-68911	G2 Phase	0.0546027	5	5	1	3	1
-R-HSA-68949	Orc1 removal from chromatin	0	26	26	1	99	42
-R-HSA-68962	Activation of the pre-replicative complex	0	30	29	0.966667	159	48
-R-HSA-69002	DNA Replication Pre-Initiation	0	35	34	0.971429	161	49
-R-HSA-69052	Switching of origins to a post-replicative state	0	26	26	1	99	42
-R-HSA-69091	Polymerase switching	0.00035671	14	14	1	51	6
-R-HSA-69109	Leading Strand Synthesis	0.00035671	14	14	1	51	6
-R-HSA-69166	Removal of the Flap Intermediate	0.189539	14	14	1	43	2
-R-HSA-69183	Processive synthesis on the lagging strand	0.216646	16	16	1	47	2
-R-HSA-69186	Lagging Strand Synthesis	1.1875e-06	21	21	1	92	11
-R-HSA-69190	DNA strand elongation	0	33	33	1	275	90
-R-HSA-69202	Cyclin E associated events during G1/S transition 	0.124596	22	22	1	33	2
-R-HSA-69206	G1/S Transition	0	60	58	0.966667	298	95
-R-HSA-69231	Cyclin D associated events in G1	0.7353	38	36	0.947368	71	1
-R-HSA-69236	G1 Phase	0.7353	38	36	0.947368	71	1
-R-HSA-69239	Synthesis of DNA	0	54	54	1	379	111
-R-HSA-69242	S Phase	0	79	79	1	540	142
-R-HSA-69273	Cyclin A/B1 associated events during G2/M transition	1.8486e-07	22	22	1	47	9
-R-HSA-69275	G2/M Transition	0.0172615	115	111	0.965217	282	11
-R-HSA-69278	Cell Cycle, Mitotic	0	432	372	0.861111	2956	667
-R-HSA-69300	Removal of licensing factors from origins	0	28	28	1	107	50
-R-HSA-69304	Regulation of DNA replication	0	28	28	1	107	50
-R-HSA-69306	DNA Replication	0	59	58	0.983051	394	123
-R-HSA-69473	G2/M DNA damage checkpoint	0.908978	77	51	0.662338	128	1
-R-HSA-69478	G2/M DNA replication checkpoint	0.0546027	5	5	1	3	1
-R-HSA-69481	G2/M Checkpoints	0	112	85	0.758929	467	104
-R-HSA-69563	p53-Dependent G1 DNA Damage Response	0.215983	13	13	1	13	1
-R-HSA-69580	p53-Dependent G1/S DNA damage checkpoint	0.215983	13	13	1	13	1
-R-HSA-69615	G1/S DNA Damage Checkpoints	0.0432055	16	16	1	18	2
-R-HSA-69618	Mitotic Spindle Checkpoint	0.210591	20	19	0.95	127	4
-R-HSA-69620	Cell Cycle Checkpoints	0	139	111	0.798561	792	163
-R-HSA-69656	Cyclin A:Cdk2-associated events at S phase entry	0.124596	23	23	1	33	2
-R-HSA-71291	Metabolism of amino acids and derivatives	0.299271	150	115	0.766667	19	1
-R-HSA-72163	mRNA Splicing - Major Pathway	1	115	112	0.973913	1084	1
-R-HSA-72172	mRNA Splicing	1	115	112	0.973913	1084	1
-R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	1	146	142	0.972603	1297	1
-R-HSA-73847	Purine metabolism	0.186076	34	28	0.823529	11	1
-R-HSA-73884	Base Excision Repair	0.000890707	35	35	1	107	8
-R-HSA-73885	Nucleotide Excision Repair	0.415991	52	50	0.961538	228	5
-R-HSA-73886	Chromosome Maintenance	7.97308e-10	109	72	0.66055	235	22
-R-HSA-73893	DNA Damage Bypass	0.0275699	46	45	0.978261	123	6
-R-HSA-73894	DNA Repair	0.00543809	147	142	0.965986	686	23
-R-HSA-73933	Resolution of Abasic Sites (AP sites)	0.000890707	35	35	1	107	8
-R-HSA-73937	Transcription-coupled NER (TC-NER)	0.31385	47	45	0.957447	200	5
-R-HSA-74160	Gene Expression	1	1214	972	0.800659	9298	13
-R-HSA-74967	Repair synthesis of patch ~27-30 bases long  by DNA polymerase	0.00589712	15	15	1	62	5
-R-HSA-74969	Gap-filling DNA repair synthesis and ligation in GG-NER	0.00630939	16	16	1	63	5
-R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	0.527043	12	12	1	40	1
-R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	0.954521	180	147	0.816667	423	4
-R-HSA-983169	Class I MHC mediated antigen processing & presentation	0.986385	224	187	0.834821	515	4
-R-HSA-983231	Factors involved in megakaryocyte development and platelet production	0.908978	114	95	0.833333	128	1
-SMP00050	Purine Metabolism	0.170698	37	32	0.864865	10	1
-SMP00144	Adenosine Deaminase Deficiency	0.170698	37	32	0.864865	10	1
-SMP00167	Adenylosuccinate Lyase Deficiency	0.170698	37	32	0.864865	10	1
-SMP00168	AICA-Ribosiduria	0.170698	37	32	0.864865	10	1
-SMP00203	Molybdenum Cofactor Deficiency	0.170698	37	32	0.864865	10	1
-SMP00210	Purine Nucleoside Phosphorylase Deficiency	0.170698	37	32	0.864865	10	1
-SMP00220	Xanthine Dehydrogenase Deficiency (Xanthinuria)	0.170698	37	32	0.864865	10	1
-SMP00364	Lesch-Nyhan Syndrome (LNS)	0.170698	37	32	0.864865	10	1
-SMP00365	Gout or Kelley-Seegmiller Syndrome	0.170698	37	32	0.864865	10	1
-SMP00427	Azathioprine Action Pathway	0.170698	47	39	0.829787	10	1
-SMP00428	Mercaptopurine Action Pathway	0.170698	47	39	0.829787	10	1
-SMP00430	Thioguanine Action Pathway	0.170698	47	39	0.829787	10	1
-SMP00512	Xanthinuria type I	0.170698	37	32	0.864865	10	1
-SMP00513	Xanthinuria type II	0.170698	37	32	0.864865	10	1
-SMP00535	Adenine phosphoribosyltransferase deficiency (APRT)	0.170698	37	32	0.864865	10	1
-SMP00536	Mitochondrial DNA depletion syndrome	0.170698	37	32	0.864865	10	1
-SMP00537	Myoadenylate deaminase deficiency	0.170698	37	32	0.864865	10	1
-WP1403	AMPK Signaling	0.195132	68	61	0.897059	82	3
-WP1530	miRNA Regulation of DNA Damage Response	2.48804e-08	89	66	0.741573	236	20
-WP1601	Fluoropyrimidine Activity	0.230521	33	29	0.878788	14	1
-WP1772	Apoptosis Modulation and Signaling	0.995375	91	82	0.901099	287	1
-WP179	Cell Cycle	0	103	98	0.951456	632	169
-WP183	Proteasome Degradation	0.999993	64	63	0.984375	634	1
-WP1859	Mitotic G2-G2-M phases	6.19356e-05	5	5	1	5	3
-WP2002	miR-targeted genes in epithelium - TarBase	0.993519	327	255	0.779817	269	1
-WP2004	miR-targeted genes in lymphocytes - TarBase	0.999139	480	383	0.797917	502	2
-WP2005	miR-targeted genes in muscle cell - TarBase	0.995542	394	313	0.794416	404	2
-WP2261	Signaling Pathways in Glioblastoma	0.887398	83	79	0.951807	276	3
-WP2263	Prostate Cancer	0.872897	72	64	0.888889	192	2
-WP2361	Gastric Cancer Network 1	4.44089e-16	29	25	0.862069	27	13
-WP2363	Gastric cancer network 2	0.000289889	32	27	0.84375	32	5
-WP2377	Integrated Pancreatic Cancer Pathway	0.247617	170	154	0.905882	808	18
-WP2431	Spinal Cord Injury	0.527844	116	97	0.836207	95	2
-WP2446	Retinoblastoma (RB) in Cancer	0	88	86	0.977273	578	158
-WP2516	ATM Signaling Pathway	0.00192986	18	17	0.944444	48	5
-WP254	Apoptosis	0.987062	84	80	0.952381	339	2
-WP2586	Aryl Hydrocarbon Receptor	0.894263	46	40	0.869565	120	1
-WP2815	Mammary gland development pathway - Involution (Stage 4 of 4)	0.230521	10	10	1	14	1
-WP2828	Bladder Cancer	0.615069	31	30	0.967742	51	1
-WP2864	Apoptosis-related network due to altered Notch3 in ovarian cancer	0.843311	53	50	0.943396	99	1
-WP3303	Rac1-Pak1-p38-MMP-2 pathway	0.829902	66	63	0.954545	243	3
-WP366	TGF beta Signaling Pathway	0.999509	132	131	0.992424	645	3
-WP382	MAPK Signaling Pathway	0.999965	168	153	0.910714	547	1
-WP437	EGF-EGFR Signaling Pathway	1	162	151	0.932099	860	1
-WP45	G1 to S cell cycle control	0	68	61	0.897059	306	62
-WP466	DNA Replication	0	42	41	0.97619	297	95
-WP531	Mismatch repair	0.0724979	9	9	1	24	2
-WP615	Senescence and Autophagy in Cancer	0.943597	105	96	0.914286	246	2
-WP707	DNA Damage Response	0.000250188	68	64	0.941176	218	13
-akap95pathway	akap95 role in mitosis and chromosome dynamics	0.0140107	16	12	0.75	10	2
-ap1_pathway	AP-1 transcription factor network	0.98751	70	62	0.885714	234	1
-arfpathway	tumor suppressor arf inhibits ribosomal biogenesis	0.182835	24	22	0.916667	42	2
-atmpathway	atm signaling pathway	0.196276	19	19	1	44	2
-atr_pathway	ATR signaling pathway	0	37	36	0.972973	150	30
-atrbrcapathway	role of brca1 brca2 and atr in cancer susceptibility	0.169538	23	22	0.956522	40	2
-aurora_a_pathway	Aurora A signaling	0.169538	31	30	0.967742	40	2
-aurora_b_pathway	Aurora B signaling	0	41	38	0.926829	79	28
-bard1pathway_2	BARD1 signaling events	0.149526	29	28	0.965517	72	3
-cellcyclepathway	cyclins and cell cycle regulation	0.0138151	23	23	1	50	4
-cmyb_pathway	C-MYB transcription factor network	0.341054	85	76	0.894118	159	4
-deltanp63pathway	Validated transcriptional targets of deltaNp63 isoforms	0.299271	48	42	0.875	19	1
-e2f_pathway	E2F transcription factor network	4.3372e-07	75	68	0.906667	256	19
-efppathway	estrogen responsive protein efp controls cell cycle and breast tumors growth	0.00433151	15	14	0.933333	36	4
-fanconi_pathway	Fanconi anemia pathway	0.00694052	46	42	0.913043	119	7
-fbw7pathway	cyclin e destruction pathway	0.201169	9	9	1	12	1
-foxm1pathway	FOXM1 transcription factor network	8.64153e-12	42	40	0.952381	118	18
-foxopathway	FoxO family signaling	0.708678	51	48	0.941176	133	2
-g1pathway	cell cycle: g1/s check point	0.027434	25	25	1	91	5
-g2pathway	cell cycle: g2/m checkpoint	0.00390694	21	19	0.904762	35	4
-hdac_classi_pathway	Signaling events mediated by HDAC Class I	0.993757	56	53	0.946429	271	1
-hes_heypathway	Notch-mediated HES/HEY network	0.931274	48	42	0.875	143	1
-il27pathway	IL27-mediated signaling events	0.508999	26	21	0.807692	38	1
-il2_pi3kpathway	IL2 signaling events mediated by PI3K	0.692527	37	35	0.945946	63	1
-il2rbpathway	il-2 receptor beta chain in t cell activation	0.555504	48	45	0.9375	100	2
-mcmpathway	cdk regulation of dna replication	0	18	18	1	85	39
-myc_activpathway	Validated targets of C-MYC transcriptional activation	0.2054	89	79	0.88764	213	6
-npcpathway	mechanism of protein import into the nucleus	0.0402828	12	12	1	41	3
-p27pathway	regulation of p27 phosphorylation during cell cycle progression	0.440251	13	13	1	31	1
-p53downstreampathway	Direct p53 effectors	0.930714	141	127	0.900709	389	4
-p53pathway	p53 signaling pathway	0.10046	13	13	1	29	2
-p53regulationpathway	p53 pathway	0.328482	58	54	0.931034	156	4
-p73pathway	p73 transcription factor network	0.00110369	79	72	0.911392	165	10
-p75ntrpathway	p75(NTR)-mediated signaling	0.898151	70	62	0.885714	122	1
-plk1_pathway	PLK1 signaling events	0	44	43	0.977273	93	39
-plk3_pathway	PLK3 signaling events	0.106225	5	5	1	6	1
-plk3pathway	regulation of cell cycle progression by plk3	0.00169292	19	18	0.947368	28	4
-proteasomepathway	proteasome complex	0.970971	24	24	1	189	1
-raccycdpathway	influence of ras and rho proteins on g1 to s transition	0.412697	28	27	0.964286	76	2
-ranmspathway	role of ran in mitotic spindle regulation	0.000125501	11	11	1	27	5
-ranpathway	cycling of ran in nucleocytoplasmic transport	0.349822	9	9	1	23	1
-rb_1pathway	Regulation of retinoblastoma protein	0.867204	64	58	0.90625	263	3
-rbpathway	rb tumor suppressor/checkpoint signaling in response to dna damage	0.00753625	13	11	0.846154	22	3
-skp2e2fpathway	e2f1 destruction pathway	0.201169	10	10	1	12	1
-stathminpathway	stathmin and breast cancer resistance to antimicrotubule agents	0.244791	25	18	0.72	15	1
-tap63pathway	Validated transcriptional targets of TAp63 isoforms	0.600382	55	50	0.909091	49	1
-tcptp_pathway	Signaling events mediated by TCPTP	0.883883	38	37	0.973684	115	1
-telomerasepathway	Regulation of Telomerase	0.997462	68	66	0.970588	319	1
+GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	0.024346	37	34	0.918919	23	2
+GO:0000082	G1/S transition of mitotic cell cycle	0	153	143	0.934641	1180	92
+GO:0000086	G2/M transition of mitotic cell cycle	0.000108816	140	134	0.957143	302	12
+GO:0000122	negative regulation of transcription from RNA polymerase II promoter	1	709	555	0.782793	2699	2
+GO:0000278	mitotic cell cycle	0	422	392	0.92891	3719	481
+GO:0000281	mitotic cytokinesis	0.00804684	25	23	0.92	13	2
+GO:0000398	mRNA splicing, via spliceosome	1	196	187	0.954082	2025	1
+GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.0516981	8	8	1	5	1
+GO:0000722	telomere maintenance via recombination	0.000742613	27	27	1	101	6
+GO:0000723	telomere maintenance	0.0292246	66	54	0.818182	218	6
+GO:0000731	DNA synthesis involved in DNA repair	0.110222	10	10	1	11	1
+GO:0000910	cytokinesis	0.028472	50	46	0.92	25	2
+GO:0001701	in utero embryonic development	0.307825	210	171	0.814286	184	3
+GO:0005975	carbohydrate metabolic process	0.88549	337	253	0.750742	204	1
+GO:0006259	DNA metabolic process	2.29593e-05	23	21	0.913043	6	3
+GO:0006260	DNA replication	0	130	123	0.946154	615	107
+GO:0006268	DNA unwinding involved in DNA replication	0	10	10	1	24	14
+GO:0006270	DNA replication initiation	0	28	26	0.928571	111	38
+GO:0006271	DNA strand elongation involved in DNA replication	0	33	33	1	275	58
+GO:0006281	DNA repair	0.0059961	290	266	0.917241	1498	27
+GO:0006283	transcription-coupled nucleotide-excision repair	0.345187	46	45	0.978261	197	3
+GO:0006284	base-excision repair	0.000213391	48	47	0.979167	150	8
+GO:0006289	nucleotide-excision repair	0.32877	69	63	0.913043	274	4
+GO:0006297	nucleotide-excision repair, DNA gap filling	0.0268913	17	17	1	61	3
+GO:0006298	mismatch repair	0.487758	25	24	0.96	63	1
+GO:0006310	DNA recombination	0.331497	71	58	0.816901	112	2
+GO:0006334	nucleosome assembly	0.00133087	131	72	0.549618	113	6
+GO:0006338	chromatin remodeling	0.786231	91	81	0.89011	274	2
+GO:0006351	transcription, DNA-templated	1	1806	1245	0.689369	5493	9
+GO:0006355	regulation of transcription, DNA-templated	1	1289	843	0.653995	1738	1
+GO:0006461	protein complex assembly	0.572377	111	98	0.882883	80	1
+GO:0006915	apoptotic process	1	600	501	0.835	2115	1
+GO:0006974	cellular response to DNA damage stimulus	0.28314	191	171	0.895288	336	5
+GO:0007049	cell cycle	3.43491e-09	187	166	0.887701	113	12
+GO:0007050	cell cycle arrest	0.902367	141	121	0.858156	219	1
+GO:0007067	mitotic nuclear division	0	233	213	0.914163	629	63
+GO:0007076	mitotic chromosome condensation	0	12	11	0.916667	19	13
+GO:0007077	mitotic nuclear envelope disassembly	0.0323148	42	40	0.952381	113	4
+GO:0007080	mitotic metaphase plate congression	0.0554338	33	32	0.969697	36	2
+GO:0007093	mitotic cell cycle checkpoint	0.199851	30	28	0.933333	21	1
+GO:0007094	mitotic spindle assembly checkpoint	0.000303342	33	32	0.969697	158	8
+GO:0007264	small GTPase mediated signal transduction	0.000417871	639	516	0.807512	2332	43
+GO:0007283	spermatogenesis	0.0198075	368	199	0.540761	97	4
+GO:0008283	cell proliferation	4.74065e-14	352	282	0.801136	464	29
+GO:0008284	positive regulation of cell proliferation	0.41669	445	313	0.703371	491	6
+GO:0008380	RNA splicing	1	238	215	0.903361	1954	1
+GO:0008584	male gonad development	0.216663	82	52	0.634146	23	1
+GO:0009411	response to UV	0.272775	43	41	0.953488	30	1
+GO:0010032	meiotic chromosome condensation	0.00109121	5	4	0.8	5	2
+GO:0010216	maintenance of DNA methylation	0.100725	6	6	1	10	1
+GO:0010467	gene expression	1	854	779	0.912178	9889	1
+GO:0015031	protein transport	0.860766	343	287	0.836735	327	2
+GO:0016032	viral process	1	559	530	0.948122	5905	14
+GO:0016567	protein ubiquitination	0.0350008	353	283	0.8017	484	10
+GO:0019221	cytokine-mediated signaling pathway	0.950931	260	200	0.769231	449	2
+GO:0019985	translesion synthesis	0.00166051	47	45	0.957447	118	6
+GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	0.00740247	81	79	0.975309	956	19
+GO:0031497	chromatin assembly	0.0617126	7	6	0.857143	6	1
+GO:0032147	activation of protein kinase activity	0.138116	62	54	0.870968	14	1
+GO:0032201	telomere maintenance via semi-conservative replication	0.000633469	23	23	1	98	6
+GO:0032467	positive regulation of cytokinesis	0.000310628	37	25	0.675676	13	3
+GO:0032508	DNA duplex unwinding	0.139579	46	43	0.934783	62	2
+GO:0040029	regulation of gene expression, epigenetic	0.95555	106	82	0.773585	293	1
+GO:0042276	error-prone translesion synthesis	0.0819287	20	19	0.95	45	2
+GO:0042493	response to drug	0.348785	308	239	0.775974	368	5
+GO:0042769	DNA damage response, detection of DNA damage	0.0263904	35	35	1	106	4
+GO:0043065	positive regulation of apoptotic process	0.97627	280	247	0.882143	352	1
+GO:0043547	positive regulation of GTPase activity	0.717284	472	357	0.756356	238	2
+GO:0044281	small molecule metabolic process	1	1450	1151	0.793793	2783	2
+GO:0045893	positive regulation of transcription, DNA-templated	1	497	398	0.800805	1910	2
+GO:0045944	positive regulation of transcription from RNA polymerase II promoter	1	951	694	0.729758	4471	1
+GO:0048146	positive regulation of fibroblast proliferation	0.0914711	54	42	0.777778	48	2
+GO:0051056	regulation of small GTPase mediated signal transduction	0.639213	134	113	0.843284	96	1
+GO:0051301	cell division	0	320	288	0.9	1153	168
+GO:0051436	negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0.934294	66	66	1	821	5
+GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	0.887335	71	69	0.971831	854	6
+GO:0051439	regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0.510828	75	73	0.973333	923	10
+GO:0051488	activation of anaphase-promoting complex activity	1.17562e-06	6	5	0.833333	3	3
+GO:0051726	regulation of cell cycle	0.00011171	114	103	0.903509	102	7
+GO:0051988	regulation of attachment of spindle microtubules to kinetochore	0.00109121	7	7	1	5	2
+GO:0070987	error-free translesion synthesis	0.0850739	19	19	1	46	2
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	0.0306322	80	60	0.75	26	2
+KEGG:01100	Metabolic pathways	0.999997	1130	852	0.753982	1181	1
+KEGG:03030	DNA replication	0	36	35	0.972222	290	62
+KEGG:03410	Base excision repair	0.386405	33	33	1	46	1
+KEGG:03420	Nucleotide excision repair	0.296343	47	44	0.93617	180	3
+KEGG:03430	Mismatch repair	0.00617672	23	21	0.913043	109	5
+KEGG:04068	FoxO signaling pathway	0.835967	134	115	0.858209	307	2
+KEGG:04110	Cell cycle	0	124	117	0.943548	853	117
+KEGG:04114	Oocyte meiosis	1.55442e-07	115	90	0.782609	296	16
+KEGG:04115	p53 signaling pathway	0.695607	68	65	0.955882	112	1
+KEGG:04120	Ubiquitin mediated proteolysis	0.53905	137	129	0.941606	462	5
+KEGG:04914	Progesterone-mediated oocyte maturation	6.72197e-05	89	71	0.797753	202	10
+KEGG:05166	HTLV-I infection	0.0708123	259	216	0.833977	926	15
+KEGG:05203	Viral carcinogenesis	0.968559	206	164	0.796117	795	4
+Pathway_TNFalpha	TNFalpha	0.993094	234	226	0.965812	1698	9
+R-HSA-109970	Global Genomic NER (GG-NER)	0.187654	35	35	1	141	3
+R-HSA-109977	Repair synthesis for gap-filling by DNA polymerase in TC-NER	0.0280424	15	15	1	62	3
+R-HSA-109979	Gap-filling DNA repair synthesis and ligation in TC-NER	0.0292194	16	16	1	63	3
+R-HSA-110312	Translesion synthesis by REV1	0.0697306	16	16	1	41	2
+R-HSA-110313	Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	0.00202355	37	36	0.972973	84	5
+R-HSA-110314	Recognition of DNA damage by PCNA-containing replication complex	0.0211714	28	28	1	99	4
+R-HSA-110320	Translesion Synthesis by POLH	0.0850739	19	19	1	46	2
+R-HSA-110373	Resolution of AP sites via the multiple-nucleotide patch replacement pathway	0.00154243	22	22	1	79	5
+R-HSA-113501	Inhibition of replication initiation of damaged DNA by RB1/E2F1	0.19131	12	11	0.916667	20	1
+R-HSA-113510	E2F mediated regulation of DNA replication	0.00647411	21	20	0.952381	36	3
+R-HSA-1280218	Adaptive Immune System	0.999995	612	430	0.702614	1831	4
+R-HSA-141405	Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	0.0420226	19	18	0.947368	123	4
+R-HSA-141430	Inactivation of APC/C via direct inhibition of the APC/C complex	0.0420226	19	18	0.947368	123	4
+R-HSA-1430728	Metabolism	1	1481	1112	0.750844	2000	1
+R-HSA-156711	Polo-like kinase mediated events	1.77415e-06	16	16	1	20	5
+R-HSA-157579	Telomere Maintenance	0.0114602	81	49	0.604938	176	6
+R-HSA-162582	Signal Transduction	1	2334	1302	0.557841	8915	46
+R-HSA-162658	Golgi Cisternae Pericentriolar Stack Reorganization	0.0169184	14	14	1	19	2
+R-HSA-1640170	Cell Cycle	0	502	431	0.858566	3980	499
+R-HSA-168256	Immune System	1	1174	822	0.70017	5263	4
+R-HSA-174048	APC/C:Cdc20 mediated degradation of Cyclin B	0.0982077	22	21	0.954545	104	3
+R-HSA-174113	SCF-beta-TrCP mediated degradation of Emi1	0.0313474	10	10	1	3	1
+R-HSA-174143	APC/C-mediated degradation of cell cycle proteins	2.33147e-15	39	38	0.974359	214	22
+R-HSA-174154	APC/C:Cdc20 mediated degradation of Securin	0.0667444	21	20	0.952381	88	3
+R-HSA-174178	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	0.000823072	25	24	0.96	103	6
+R-HSA-174184	Cdc20:Phospho-APC/C mediated degradation of Cyclin A	0.00417105	26	25	0.961538	142	6
+R-HSA-174411	Polymerase switching on the C-strand of the telomere	0.0168069	14	14	1	51	3
+R-HSA-174414	Processive synthesis on the C-strand of the telomere	0.265012	12	12	1	29	1
+R-HSA-174417	Telomere C-strand (Lagging Strand) Synthesis	0.000633469	23	23	1	98	6
+R-HSA-174437	Removal of the Flap Intermediate from the C-strand	0.241222	10	10	1	26	1
+R-HSA-176187	Activation of ATR in response to replication stress	0	37	36	0.972973	227	44
+R-HSA-176407	Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	0.226431	18	17	0.944444	85	2
+R-HSA-176408	Regulation of APC/C activators between G1/S and early anaphase	2.33618e-09	34	33	0.970588	189	15
+R-HSA-176409	APC/C:Cdc20 mediated degradation of mitotic proteins	3.53905e-10	29	28	0.965517	165	15
+R-HSA-176412	Phosphorylation of the APC/C	0.607213	18	17	0.944444	88	1
+R-HSA-176417	Phosphorylation of Emi1	3.85476e-06	6	6	1	11	4
+R-HSA-176814	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	6.3094e-13	30	29	0.966667	173	18
+R-HSA-176974	Unwinding of DNA	0	12	12	1	65	23
+R-HSA-179409	APC-Cdc20 mediated degradation of Nek2A	0.011526	24	23	0.958333	127	5
+R-HSA-179419	APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	0.000945105	27	26	0.962963	145	7
+R-HSA-180786	Extension of Telomeres	0.00375892	29	29	1	139	6
+R-HSA-194315	Signaling by Rho GTPases	1.81632e-12	404	321	0.794554	1185	44
+R-HSA-194840	Rho GTPase cycle	0.63536	125	101	0.808	95	1
+R-HSA-195258	RHO GTPase Effectors	2.80657e-08	289	230	0.795848	918	31
+R-HSA-212165	Epigenetic regulation of gene expression	0.952114	127	83	0.653543	286	1
+R-HSA-2262752	Cellular responses to stress	0.999999	367	300	0.817439	1553	2
+R-HSA-2467813	Separation of Sister Chromatids	7.53952e-13	119	111	0.932773	482	28
+R-HSA-2500257	Resolution of Sister Chromatid Cohesion	0	101	94	0.930693	385	39
+R-HSA-2514853	Condensation of Prometaphase Chromosomes	0	12	11	0.916667	26	14
+R-HSA-2555396	Mitotic Metaphase and Anaphase	1.96509e-14	131	123	0.938931	517	31
+R-HSA-2559583	Cellular Senescence	0.974631	181	133	0.734807	523	2
+R-HSA-2559586	DNA Damage/Telomere Stress Induced Senescence	0.399299	27	26	0.962963	48	1
+R-HSA-2565942	Regulation of PLK1 Activity at G2/M Transition	0.220127	81	77	0.950617	153	3
+R-HSA-2980766	Nuclear Envelope Breakdown	0.0463176	50	49	0.98	127	4
+R-HSA-2980767	Activation of NIMA Kinases NEK9, NEK6, NEK7	0.0029916	7	7	1	8	2
+R-HSA-3301854	Nuclear Pore Complex (NPC) Disassembly	0.0939932	33	32	0.969697	102	3
+R-HSA-380270	Recruitment of mitotic centrosome proteins and complexes	0.421445	73	68	0.931507	136	2
+R-HSA-380287	Centrosome maturation	0.421445	73	68	0.931507	136	2
+R-HSA-453274	Mitotic G2-G2/M phases	0.000243128	117	112	0.957265	282	11
+R-HSA-453276	Regulation of mitotic cell cycle	2.33147e-15	39	38	0.974359	214	22
+R-HSA-453279	Mitotic G1-G1/S phases	0	84	81	0.964286	423	62
+R-HSA-5358508	Mismatch Repair	0.386405	15	15	1	46	1
+R-HSA-5358565	Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	0.346037	14	14	1	40	1
+R-HSA-5358606	Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	0.352945	14	14	1	41	1
+R-HSA-5651801	PCNA-Dependent Long Patch Base Excision Repair	0.00101733	19	19	1	72	5
+R-HSA-5655862	Translesion synthesis by POLK	0.0697306	17	17	1	41	2
+R-HSA-5656121	Translesion synthesis by POLI	0.0757508	17	17	1	43	2
+R-HSA-5656169	Termination of translesion DNA synthesis	0.00115117	30	29	0.966667	74	5
+R-HSA-5663220	RHO GTPases Activate Formins	2.61235e-13	115	108	0.93913	329	24
+R-HSA-68867	Assembly of the pre-replicative complex	0	20	20	1	77	23
+R-HSA-68874	M/G1 Transition	0	35	34	0.971429	161	36
+R-HSA-68875	Mitotic Prophase	0.0122949	139	95	0.683453	232	7
+R-HSA-68877	Mitotic Prometaphase	0	110	102	0.927273	470	89
+R-HSA-68882	Mitotic Anaphase	9.79217e-14	130	122	0.938462	513	30
+R-HSA-68886	M Phase	0	258	205	0.794574	1010	121
+R-HSA-68949	Orc1 removal from chromatin	0	26	26	1	99	26
+R-HSA-68962	Activation of the pre-replicative complex	0	30	29	0.966667	159	36
+R-HSA-69002	DNA Replication Pre-Initiation	0	35	34	0.971429	161	36
+R-HSA-69052	Switching of origins to a post-replicative state	0	26	26	1	99	26
+R-HSA-69091	Polymerase switching	0.0168069	14	14	1	51	3
+R-HSA-69109	Leading Strand Synthesis	0.0168069	14	14	1	51	3
+R-HSA-69166	Removal of the Flap Intermediate	0.366542	14	14	1	43	1
+R-HSA-69183	Processive synthesis on the lagging strand	0.392886	16	16	1	47	1
+R-HSA-69186	Lagging Strand Synthesis	0.000452668	21	21	1	92	6
+R-HSA-69190	DNA strand elongation	0	33	33	1	275	58
+R-HSA-69202	Cyclin E associated events during G1/S transition 	0.295575	22	22	1	33	1
+R-HSA-69206	G1/S Transition	0	60	58	0.966667	298	61
+R-HSA-69239	Synthesis of DNA	0	54	54	1	379	72
+R-HSA-69242	S Phase	0	79	79	1	540	94
+R-HSA-69273	Cyclin A/B1 associated events during G2/M transition	1.52028e-09	22	22	1	47	9
+R-HSA-69275	G2/M Transition	0.000235866	115	110	0.956522	281	11
+R-HSA-69278	Cell Cycle, Mitotic	0	432	371	0.858796	2941	465
+R-HSA-69300	Removal of licensing factors from origins	0	28	28	1	107	31
+R-HSA-69304	Regulation of DNA replication	0	28	28	1	107	31
+R-HSA-69306	DNA Replication	0	59	58	0.983051	394	77
+R-HSA-69473	G2/M DNA damage checkpoint	0.743191	77	51	0.662338	128	1
+R-HSA-69478	G2/M DNA replication checkpoint	0.0313474	5	5	1	3	1
+R-HSA-69481	G2/M Checkpoints	0	112	85	0.758929	467	65
+R-HSA-69618	Mitotic Spindle Checkpoint	0.0463176	20	19	0.95	127	4
+R-HSA-69620	Cell Cycle Checkpoints	0	139	111	0.798561	792	104
+R-HSA-69656	Cyclin A:Cdk2-associated events at S phase entry	0.295575	23	23	1	33	1
+R-HSA-71387	Metabolism of carbohydrates	0.876644	261	202	0.773946	197	1
+R-HSA-73884	Base Excision Repair	0.00571768	35	35	1	107	5
+R-HSA-73885	Nucleotide Excision Repair	0.432944	52	50	0.961538	228	3
+R-HSA-73886	Chromosome Maintenance	9.55049e-06	109	72	0.66055	235	12
+R-HSA-73893	DNA Damage Bypass	0.00204869	46	45	0.978261	123	6
+R-HSA-73894	DNA Repair	0.0316496	147	141	0.959184	682	13
+R-HSA-73933	Resolution of Abasic Sites (AP sites)	0.00571768	35	35	1	107	5
+R-HSA-73937	Transcription-coupled NER (TC-NER)	0.353793	47	45	0.957447	200	3
+R-HSA-74160	Gene Expression	1	1214	955	0.786656	9249	1
+R-HSA-74967	Repair synthesis of patch ~27-30 bases long  by DNA polymerase	0.0280424	15	15	1	62	3
+R-HSA-74969	Gap-filling DNA repair synthesis and ligation in GG-NER	0.0292194	16	16	1	63	3
+R-HSA-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	0.346037	12	12	1	40	1
+R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	0.65194	180	147	0.816667	422	4
+R-HSA-983169	Class I MHC mediated antigen processing & presentation	0.791954	224	187	0.834821	514	4
+WP1403	AMPK Signaling	0.214802	68	59	0.867647	82	2
+WP1530	miRNA Regulation of DNA Damage Response	0.00101803	89	66	0.741573	236	9
+WP179	Cell Cycle	0	103	98	0.951456	632	117
+WP1859	Mitotic G2-G2-M phases	6.14445e-08	5	5	1	5	4
+WP2263	Prostate Cancer	0.869911	72	64	0.888889	192	1
+WP2361	Gastric Cancer Network 1	1.06829e-08	29	25	0.862069	27	7
+WP2363	Gastric cancer network 2	0.00464008	32	27	0.84375	32	3
+WP2377	Integrated Pancreatic Cancer Pathway	0.971221	170	152	0.894118	807	4
+WP2446	Retinoblastoma (RB) in Cancer	0	88	86	0.977273	577	85
+WP2516	ATM Signaling Pathway	0.0142866	18	17	0.944444	48	3
+WP45	G1 to S cell cycle control	0	68	61	0.897059	306	45
+WP466	DNA Replication	0	42	41	0.97619	297	58
+WP531	Mismatch repair	0.224936	9	9	1	24	1
+WP707	DNA Damage Response	0.0828087	68	64	0.941176	218	5
+akap95pathway	akap95 role in mitosis and chromosome dynamics	0.100725	16	12	0.75	10	1
+atr_pathway	ATR signaling pathway	0	37	36	0.972973	150	21
+aurora_b_pathway	Aurora B signaling	0	41	38	0.926829	79	27
+btg2pathway	btg family proteins and cell cycle regulation	0.100725	9	9	1	10	1
+cellcyclepathway	cyclins and cell cycle regulation	0.0980034	23	23	1	50	2
+cmyb_pathway	C-MYB transcription factor network	0.501458	85	75	0.882353	159	2
+deltanp63pathway	Validated transcriptional targets of deltaNp63 isoforms	0.182678	48	42	0.875	19	1
+e2f_pathway	E2F transcription factor network	0.0550376	75	68	0.906667	255	6
+efppathway	estrogen responsive protein efp controls cell cycle and breast tumors growth	0.317662	15	14	0.933333	36	1
+fanconi_pathway	Fanconi anemia pathway	0.0369849	46	41	0.891304	118	4
+foxm1pathway	FOXM1 transcription factor network	5.10574e-06	42	40	0.952381	118	9
+foxopathway	FoxO family signaling	0.756478	51	48	0.941176	133	1
+il2rbpathway	il-2 receptor beta chain in t cell activation	0.28495	48	45	0.9375	100	2
+mcmpathway	cdk regulation of dna replication	0	18	18	1	85	25
+mprpathway	how progesterone initiates the oocyte maturation	0.233122	23	18	0.782609	25	1
+myc_activpathway	Validated targets of C-MYC transcriptional activation	0.895937	89	79	0.88764	213	1
+nfat_3pathway	Role of Calcineurin-dependent NFAT signaling in lymphocytes	0.743191	56	52	0.928571	128	1
+npcpathway	mechanism of protein import into the nucleus	0.0697306	12	12	1	41	2
+p53downstreampathway	Direct p53 effectors	0.779184	141	127	0.900709	389	3
+p73pathway	p73 transcription factor network	0.00804635	79	71	0.898734	163	6
+plk1_pathway	PLK1 signaling events	0	44	43	0.977273	93	23
+ranmspathway	role of ran in mitotic spindle regulation	0.000179162	11	11	1	27	4
+tap63pathway	Validated transcriptional targets of TAp63 isoforms	0.399299	55	50	0.909091	48	1
